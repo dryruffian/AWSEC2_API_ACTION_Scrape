@@ -1,0 +1,15 @@
+{
+    "action": "CreateIpam",
+    "request_parameters": {
+        "ClientToken": "",
+        "Description": "",
+        "DryRun": "",
+        "OperatingRegion.N": "AddIpamOperatingRegion",
+        "TagSpecification.N": "TagSpecification",
+        "Tier": ""
+    },
+    "response_elements": {
+        "ipam": "Ipam",
+        "requestId": ""
+    }
+}

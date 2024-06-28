@@ -1,0 +1,26 @@
+{
+    "action": "CreateIpamPool",
+    "request_parameters": {
+        "AddressFamily": "",
+        "AllocationDefaultNetmaskLength": "",
+        "AllocationMaxNetmaskLength": "",
+        "AllocationMinNetmaskLength": "",
+        "AllocationResourceTag.N": "RequestIpamResourceTag",
+        "AutoImport": "",
+        "AwsService": "",
+        "ClientToken": "",
+        "Description": "",
+        "DryRun": "",
+        "IpamScopeId": "",
+        "Locale": "",
+        "PublicIpSource": "",
+        "PubliclyAdvertisable": "",
+        "SourceIpamPoolId": "",
+        "SourceResource": "IpamPoolSourceResourceRequest",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "ipamPool": "IpamPool",
+        "requestId": ""
+    }
+}

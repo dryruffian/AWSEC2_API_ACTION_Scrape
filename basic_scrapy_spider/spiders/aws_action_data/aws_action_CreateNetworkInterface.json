@@ -1,0 +1,91 @@
+{
+    "action": "CreateNetworkInterface",
+    "request_parameters": {
+        "ClientToken": {
+            "type": "String",
+            "required": "No"
+        },
+        "ConnectionTrackingSpecification": {
+            "type": "",
+            "required": "No"
+        },
+        "Description": {
+            "type": "String",
+            "required": "No"
+        },
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "EnablePrimaryIpv6": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "InterfaceType": {
+            "type": "String",
+            "required": "No"
+        },
+        "Ipv4Prefix.N": {
+            "type": "Array of",
+            "required": "No"
+        },
+        "Ipv4PrefixCount": {
+            "type": "Integer",
+            "required": "No"
+        },
+        "Ipv6AddressCount": {
+            "type": "Integer",
+            "required": "No"
+        },
+        "Ipv6Addresses.N": {
+            "type": "Array of",
+            "required": "No"
+        },
+        "Ipv6Prefix.N": {
+            "type": "Array of",
+            "required": "No"
+        },
+        "Ipv6PrefixCount": {
+            "type": "Integer",
+            "required": "No"
+        },
+        "PrivateIpAddress": {
+            "type": "String",
+            "required": "No"
+        },
+        "PrivateIpAddresses.N": {
+            "type": "Array of",
+            "required": "No"
+        },
+        "SecondaryPrivateIpAddressCount": {
+            "type": "Integer",
+            "required": "No"
+        },
+        "SecurityGroupId.N": {
+            "type": "Array of strings",
+            "required": "No"
+        },
+        "SubnetId": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        }
+    },
+    "response_elements": {
+        "clientToken": {
+            "type": "String",
+            "required": ""
+        },
+        "networkInterface": {
+            "type": "",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        }
+    }
+}

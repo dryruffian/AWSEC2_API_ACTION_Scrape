@@ -1,11 +1,11 @@
 {
-    "action": "CreateInternetGateway",
+    "action": "CreatePublicIpv4Pool",
     "request_parameters": {
         "DryRun": "",
-        "TagSpecification.N": ""
+        "TagSpecification.N": "TagSpecification"
     },
     "response_elements": {
-        "internetGateway": "",
+        "poolId": "",
         "requestId": ""
     }
 }

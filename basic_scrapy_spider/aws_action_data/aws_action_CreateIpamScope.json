@@ -1,0 +1,14 @@
+{
+    "action": "CreateIpamScope",
+    "request_parameters": {
+        "ClientToken": "",
+        "Description": "",
+        "DryRun": "",
+        "IpamId": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "ipamScope": "IpamScope",
+        "requestId": ""
+    }
+}

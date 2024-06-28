@@ -1,0 +1,11 @@
+{
+    "action": "CreateInternetGateway",
+    "request_parameters": {
+        "DryRun": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "internetGateway": "InternetGateway",
+        "requestId": ""
+    }
+}

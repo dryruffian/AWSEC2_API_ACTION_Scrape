@@ -1,0 +1,28 @@
+{
+    "action": "CreateNetworkInterface",
+    "request_parameters": {
+        "ClientToken": "",
+        "ConnectionTrackingSpecification": "ConnectionTrackingSpecificationRequest",
+        "Description": "",
+        "DryRun": "",
+        "EnablePrimaryIpv6": "",
+        "InterfaceType": "",
+        "Ipv4Prefix.N": "Ipv4PrefixSpecificationRequest",
+        "Ipv4PrefixCount": "",
+        "Ipv6AddressCount": "",
+        "Ipv6Addresses.N": "InstanceIpv6Address",
+        "Ipv6Prefix.N": "Ipv6PrefixSpecificationRequest",
+        "Ipv6PrefixCount": "",
+        "PrivateIpAddress": "",
+        "PrivateIpAddresses.N": "PrivateIpAddressSpecification",
+        "SecondaryPrivateIpAddressCount": "",
+        "SecurityGroupId.N": "",
+        "SubnetId": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "clientToken": "",
+        "networkInterface": "NetworkInterface",
+        "requestId": ""
+    }
+}

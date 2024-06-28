@@ -1,0 +1,23 @@
+{
+    "action": "CreatePublicIpv4Pool",
+    "request_parameters": {
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        }
+    },
+    "response_elements": {
+        "poolId": {
+            "type": "String",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        }
+    }
+}

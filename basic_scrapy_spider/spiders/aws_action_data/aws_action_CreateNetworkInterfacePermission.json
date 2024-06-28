@@ -1,0 +1,35 @@
+{
+    "action": "CreateNetworkInterfacePermission",
+    "request_parameters": {
+        "AwsAccountId": {
+            "type": "String",
+            "required": "No"
+        },
+        "AwsService": {
+            "type": "String",
+            "required": "No"
+        },
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "NetworkInterfaceId": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "Permission": {
+            "type": "String",
+            "required": "Yes"
+        }
+    },
+    "response_elements": {
+        "interfacePermission": {
+            "type": "",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        }
+    }
+}

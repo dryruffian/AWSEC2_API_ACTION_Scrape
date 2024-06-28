@@ -1,0 +1,23 @@
+{
+    "action": "CreateInternetGateway",
+    "request_parameters": {
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        }
+    },
+    "response_elements": {
+        "internetGateway": {
+            "type": "",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        }
+    }
+}

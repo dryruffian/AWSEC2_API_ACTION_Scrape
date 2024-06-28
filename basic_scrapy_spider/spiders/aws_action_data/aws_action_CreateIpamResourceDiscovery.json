@@ -1,0 +1,35 @@
+{
+    "action": "CreateIpamResourceDiscovery",
+    "request_parameters": {
+        "ClientToken": {
+            "type": "String",
+            "required": "No"
+        },
+        "Description": {
+            "type": "String",
+            "required": "No"
+        },
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "OperatingRegion.N": {
+            "type": "Array of",
+            "required": "No"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        }
+    },
+    "response_elements": {
+        "ipamResourceDiscovery": {
+            "type": "",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        }
+    }
+}

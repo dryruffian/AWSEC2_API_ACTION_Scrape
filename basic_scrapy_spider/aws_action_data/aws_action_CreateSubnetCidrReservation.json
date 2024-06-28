@@ -1,0 +1,15 @@
+{
+    "action": "CreateSubnetCidrReservation",
+    "request_parameters": {
+        "Cidr": "",
+        "Description": "",
+        "DryRun": "",
+        "ReservationType": "",
+        "SubnetId": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "requestId": "",
+        "subnetCidrReservation": "SubnetCidrReservation"
+    }
+}

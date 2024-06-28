@@ -1,0 +1,59 @@
+{
+    "action": "CreateNetworkInsightsPath",
+    "request_parameters": {
+        "ClientToken": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "Destination": {
+            "type": "String",
+            "required": "No"
+        },
+        "DestinationIp": {
+            "type": "String",
+            "required": "No"
+        },
+        "DestinationPort": {
+            "type": "Integer",
+            "required": "No"
+        },
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "FilterAtDestination": {
+            "type": "",
+            "required": "No"
+        },
+        "FilterAtSource": {
+            "type": "",
+            "required": "No"
+        },
+        "Protocol": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "Source": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "SourceIp": {
+            "type": "String",
+            "required": "No"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        }
+    },
+    "response_elements": {
+        "networkInsightsPath": {
+            "type": "",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        }
+    }
+}

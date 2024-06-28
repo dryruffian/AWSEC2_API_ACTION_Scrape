@@ -1,0 +1,35 @@
+{
+    "action": "CreateRouteTable",
+    "request_parameters": {
+        "ClientToken": {
+            "type": "String",
+            "required": "No"
+        },
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        },
+        "VpcId": {
+            "type": "String",
+            "required": "Yes"
+        }
+    },
+    "response_elements": {
+        "clientToken": {
+            "type": "String",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        },
+        "routeTable": {
+            "type": "",
+            "required": ""
+        }
+    }
+}

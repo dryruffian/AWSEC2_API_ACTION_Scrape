@@ -1,0 +1,13 @@
+{
+    "action": "CreateLocalGatewayRouteTableVirtualInterfaceGroupAssociation",
+    "request_parameters": {
+        "DryRun": "",
+        "LocalGatewayRouteTableId": "",
+        "LocalGatewayVirtualInterfaceGroupId": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "localGatewayRouteTableVirtualInterfaceGroupAssociation": "LocalGatewayRouteTableVirtualInterfaceGroupAssociation",
+        "requestId": ""
+    }
+}

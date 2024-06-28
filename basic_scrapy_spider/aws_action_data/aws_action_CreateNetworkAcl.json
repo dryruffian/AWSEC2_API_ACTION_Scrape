@@ -1,0 +1,14 @@
+{
+    "action": "CreateNetworkAcl",
+    "request_parameters": {
+        "ClientToken": "",
+        "DryRun": "",
+        "TagSpecification.N": "TagSpecification",
+        "VpcId": ""
+    },
+    "response_elements": {
+        "clientToken": "",
+        "networkAcl": "NetworkAcl",
+        "requestId": ""
+    }
+}

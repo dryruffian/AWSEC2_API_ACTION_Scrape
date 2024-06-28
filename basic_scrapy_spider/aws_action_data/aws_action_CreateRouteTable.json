@@ -1,0 +1,14 @@
+{
+    "action": "CreateRouteTable",
+    "request_parameters": {
+        "ClientToken": "",
+        "DryRun": "",
+        "TagSpecification.N": "TagSpecification",
+        "VpcId": ""
+    },
+    "response_elements": {
+        "clientToken": "",
+        "requestId": "",
+        "routeTable": "RouteTable"
+    }
+}

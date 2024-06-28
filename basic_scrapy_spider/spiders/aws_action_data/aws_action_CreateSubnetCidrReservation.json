@@ -1,0 +1,39 @@
+{
+    "action": "CreateSubnetCidrReservation",
+    "request_parameters": {
+        "Cidr": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "Description": {
+            "type": "String",
+            "required": "No"
+        },
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "ReservationType": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "SubnetId": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        }
+    },
+    "response_elements": {
+        "requestId": {
+            "type": "String",
+            "required": ""
+        },
+        "subnetCidrReservation": {
+            "type": "",
+            "required": ""
+        }
+    }
+}

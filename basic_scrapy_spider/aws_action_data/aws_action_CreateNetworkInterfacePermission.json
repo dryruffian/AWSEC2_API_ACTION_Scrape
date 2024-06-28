@@ -1,0 +1,14 @@
+{
+    "action": "CreateNetworkInterfacePermission",
+    "request_parameters": {
+        "AwsAccountId": "",
+        "AwsService": "",
+        "DryRun": "",
+        "NetworkInterfaceId": "",
+        "Permission": ""
+    },
+    "response_elements": {
+        "interfacePermission": "NetworkInterfacePermission",
+        "requestId": ""
+    }
+}

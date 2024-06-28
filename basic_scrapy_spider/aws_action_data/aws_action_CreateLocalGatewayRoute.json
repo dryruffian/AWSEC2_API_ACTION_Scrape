@@ -1,0 +1,15 @@
+{
+    "action": "CreateLocalGatewayRoute",
+    "request_parameters": {
+        "DestinationCidrBlock": "",
+        "DestinationPrefixListId": "",
+        "DryRun": "",
+        "LocalGatewayRouteTableId": "",
+        "LocalGatewayVirtualInterfaceGroupId": "",
+        "NetworkInterfaceId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "route": "LocalGatewayRoute"
+    }
+}

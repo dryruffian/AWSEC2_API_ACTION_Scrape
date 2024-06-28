@@ -1,0 +1,16 @@
+{
+    "action": "CreateManagedPrefixList",
+    "request_parameters": {
+        "AddressFamily": "",
+        "ClientToken": "",
+        "DryRun": "",
+        "Entry.N": "AddPrefixListEntry",
+        "MaxEntries": "",
+        "PrefixListName": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "prefixList": "ManagedPrefixList",
+        "requestId": ""
+    }
+}

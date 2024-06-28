@@ -1,0 +1,43 @@
+{
+    "action": "CreateManagedPrefixList",
+    "request_parameters": {
+        "AddressFamily": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "ClientToken": {
+            "type": "String",
+            "required": "No"
+        },
+        "DryRun": {
+            "type": "Boolean",
+            "required": "No"
+        },
+        "Entry.N": {
+            "type": "Array of",
+            "required": "No"
+        },
+        "MaxEntries": {
+            "type": "Integer",
+            "required": "Yes"
+        },
+        "PrefixListName": {
+            "type": "String",
+            "required": "Yes"
+        },
+        "TagSpecification.N": {
+            "type": "Array of",
+            "required": "No"
+        }
+    },
+    "response_elements": {
+        "prefixList": {
+            "type": "",
+            "required": ""
+        },
+        "requestId": {
+            "type": "String",
+            "required": ""
+        }
+    }
+}

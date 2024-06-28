@@ -1,0 +1,15 @@
+{
+    "action": "CreateSnapshots",
+    "request_parameters": {
+        "CopyTagsFromSource": "",
+        "Description": "",
+        "DryRun": "",
+        "InstanceSpecification": "InstanceSpecification",
+        "OutpostArn": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "requestId": "",
+        "snapshotSet": "SnapshotInfo"
+    }
+}

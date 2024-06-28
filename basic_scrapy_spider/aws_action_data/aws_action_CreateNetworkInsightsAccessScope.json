@@ -1,0 +1,15 @@
+{
+    "action": "CreateNetworkInsightsAccessScope",
+    "request_parameters": {
+        "ClientToken": "",
+        "DryRun": "",
+        "ExcludePath.N": "AccessScopePathRequest",
+        "MatchPath.N": "AccessScopePathRequest",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "networkInsightsAccessScope": "NetworkInsightsAccessScope",
+        "networkInsightsAccessScopeContent": "NetworkInsightsAccessScopeContent",
+        "requestId": ""
+    }
+}

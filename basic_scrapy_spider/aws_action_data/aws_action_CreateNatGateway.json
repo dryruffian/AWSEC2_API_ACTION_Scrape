@@ -1,0 +1,20 @@
+{
+    "action": "CreateNatGateway",
+    "request_parameters": {
+        "AllocationId": "",
+        "ClientToken": "",
+        "ConnectivityType": "",
+        "DryRun": "",
+        "PrivateIpAddress": "",
+        "SecondaryAllocationId.N": "",
+        "SecondaryPrivateIpAddress.N": "",
+        "SecondaryPrivateIpAddressCount": "",
+        "SubnetId": "",
+        "TagSpecification.N": "TagSpecification"
+    },
+    "response_elements": {
+        "clientToken": "",
+        "natGateway": "NatGateway",
+        "requestId": ""
+    }
+}
