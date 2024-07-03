@@ -1,0 +1,13 @@
+{
+    "action": "TransitGateway",
+    "content_parameters": {
+        "creationTime": "",
+        "description": "",
+        "options": "TransitGatewayOptions",
+        "ownerId": "",
+        "state": "",
+        "tagSet": "Tag",
+        "transitGatewayArn": "",
+        "transitGatewayId": ""
+    }
+}

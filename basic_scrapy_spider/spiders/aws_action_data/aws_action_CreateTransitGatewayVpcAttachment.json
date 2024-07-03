@@ -1,0 +1,44 @@
+{
+    "action": "CreateTransitGatewayVpcAttachment",
+    "request_parameters": {
+        "DryRun": "",
+        "Options": {
+            "ApplianceModeSupport": "",
+            "DnsSupport": "",
+            "Ipv6Support": "",
+            "SecurityGroupReferencingSupport": ""
+        },
+        "SubnetIds.N": "",
+        "TagSpecifications.N": {
+            "ResourceType": "",
+            "Tags": {
+                "Key": "",
+                "Value": ""
+            }
+        },
+        "TransitGatewayId": "",
+        "VpcId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "transitGatewayVpcAttachment": {
+            "creationTime": "",
+            "options": {
+                "applianceModeSupport": "",
+                "dnsSupport": "",
+                "ipv6Support": "",
+                "securityGroupReferencingSupport": ""
+            },
+            "state": "",
+            "subnetIds": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "transitGatewayAttachmentId": "",
+            "transitGatewayId": "",
+            "vpcId": "",
+            "vpcOwnerId": ""
+        }
+    }
+}

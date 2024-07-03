@@ -1,0 +1,9 @@
+{
+    "action": "PrivateDnsNameConfiguration",
+    "content_parameters": {
+        "name": "",
+        "state": "",
+        "type": "",
+        "value": ""
+    }
+}

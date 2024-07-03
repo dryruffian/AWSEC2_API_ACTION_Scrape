@@ -1,0 +1,21 @@
+{
+  "action": "DeleteVpcEndpointConnectionNotifications",
+  "request_parameters": {
+    "ConnectionNotificationId.N": "",
+    "DryRun": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "unsuccessful": [
+      {
+        "error": [
+          {
+            "code": "",
+            "message": ""
+          }
+        ],
+        "resourceId": ""
+      }
+    ]
+  }
+}

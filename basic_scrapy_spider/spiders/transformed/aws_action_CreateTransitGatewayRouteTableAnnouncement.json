@@ -1,0 +1,42 @@
+{
+  "action": "CreateTransitGatewayRouteTableAnnouncement",
+  "request_parameters": {
+    "DryRun": "",
+    "PeeringAttachmentId": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "TransitGatewayRouteTableId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "transitGatewayRouteTableAnnouncement": [
+      {
+        "announcementDirection": "",
+        "coreNetworkId": "",
+        "creationTime": "",
+        "peerCoreNetworkId": "",
+        "peeringAttachmentId": "",
+        "peerTransitGatewayId": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "transitGatewayId": "",
+        "transitGatewayRouteTableAnnouncementId": "",
+        "transitGatewayRouteTableId": ""
+      }
+    ]
+  }
+}

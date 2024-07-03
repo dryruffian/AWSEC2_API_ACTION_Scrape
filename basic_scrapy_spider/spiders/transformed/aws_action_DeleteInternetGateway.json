@@ -1,0 +1,11 @@
+{
+  "action": "DeleteInternetGateway",
+  "request_parameters": {
+    "DryRun": "",
+    "InternetGatewayId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

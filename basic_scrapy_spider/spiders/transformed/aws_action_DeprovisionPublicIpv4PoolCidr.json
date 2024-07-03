@@ -1,0 +1,13 @@
+{
+  "action": "DeprovisionPublicIpv4PoolCidr",
+  "request_parameters": {
+    "Cidr": "",
+    "DryRun": "",
+    "PoolId": ""
+  },
+  "response_elements": {
+    "deprovisionedAddressSet": "",
+    "poolId": "",
+    "requestId": ""
+  }
+}

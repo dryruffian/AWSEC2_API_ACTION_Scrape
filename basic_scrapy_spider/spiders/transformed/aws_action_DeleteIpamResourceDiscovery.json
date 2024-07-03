@@ -1,0 +1,32 @@
+{
+  "action": "DeleteIpamResourceDiscovery",
+  "request_parameters": {
+    "DryRun": "",
+    "IpamResourceDiscoveryId": ""
+  },
+  "response_elements": {
+    "ipamResourceDiscovery": [
+      {
+        "description": "",
+        "ipamResourceDiscoveryArn": "",
+        "ipamResourceDiscoveryId": "",
+        "ipamResourceDiscoveryRegion": "",
+        "isDefault": "",
+        "operatingRegionSet": [
+          {
+            "regionName": ""
+          }
+        ],
+        "ownerId": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "requestId": ""
+  }
+}

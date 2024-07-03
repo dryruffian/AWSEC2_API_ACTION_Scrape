@@ -1,0 +1,7 @@
+{
+    "action": "ClientConnectOptions",
+    "content_parameters": {
+        "Enabled": "",
+        "LambdaFunctionArn": ""
+    }
+}

@@ -1,0 +1,51 @@
+{
+  "action": "CreateTransitGatewayMulticastDomain",
+  "request_parameters": {
+    "DryRun": "",
+    "Options": [
+      {
+        "AutoAcceptSharedAssociations": "",
+        "Igmpv2Support": "",
+        "StaticSourcesSupport": ""
+      }
+    ],
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "TransitGatewayId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "transitGatewayMulticastDomain": [
+      {
+        "creationTime": "",
+        "options": [
+          {
+            "autoAcceptSharedAssociations": "",
+            "igmpv2Support": "",
+            "staticSourcesSupport": ""
+          }
+        ],
+        "ownerId": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "transitGatewayId": "",
+        "transitGatewayMulticastDomainArn": "",
+        "transitGatewayMulticastDomainId": ""
+      }
+    ]
+  }
+}

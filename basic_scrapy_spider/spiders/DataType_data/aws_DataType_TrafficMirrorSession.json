@@ -1,0 +1,15 @@
+{
+    "action": "TrafficMirrorSession",
+    "content_parameters": {
+        "description": "",
+        "networkInterfaceId": "",
+        "ownerId": "",
+        "packetLength": "",
+        "sessionNumber": "",
+        "tagSet": "Tag",
+        "trafficMirrorFilterId": "",
+        "trafficMirrorSessionId": "",
+        "trafficMirrorTargetId": "",
+        "virtualNetworkId": ""
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "action": "DeleteTransitGatewayPeeringAttachment",
+  "request_parameters": {
+    "DryRun": "",
+    "TransitGatewayAttachmentId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "transitGatewayPeeringAttachment": [
+      {
+        "accepterTgwInfo": [
+          {
+            "coreNetworkId": "",
+            "ownerId": "",
+            "region": "",
+            "transitGatewayId": ""
+          }
+        ],
+        "accepterTransitGatewayAttachmentId": "",
+        "creationTime": "",
+        "options": [
+          {
+            "dynamicRouting": ""
+          }
+        ],
+        "requesterTgwInfo": "PeeringTgwInfo",
+        "state": "",
+        "status": [
+          {
+            "code": "",
+            "message": ""
+          }
+        ],
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "transitGatewayAttachmentId": ""
+      }
+    ]
+  }
+}

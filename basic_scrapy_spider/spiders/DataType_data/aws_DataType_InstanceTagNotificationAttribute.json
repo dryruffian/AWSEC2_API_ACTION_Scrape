@@ -1,0 +1,7 @@
+{
+    "action": "InstanceTagNotificationAttribute",
+    "content_parameters": {
+        "includeAllTagsOfInstance": "",
+        "instanceTagKeySet": ""
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "action": "CreateTransitGatewayPrefixListReference",
+  "request_parameters": {
+    "Blackhole": "",
+    "DryRun": "",
+    "PrefixListId": "",
+    "TransitGatewayAttachmentId": "",
+    "TransitGatewayRouteTableId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "transitGatewayPrefixListReference": [
+      {
+        "blackhole": "",
+        "prefixListId": "",
+        "prefixListOwnerId": "",
+        "state": "",
+        "transitGatewayAttachment": [
+          {
+            "resourceId": "",
+            "resourceType": "",
+            "transitGatewayAttachmentId": ""
+          }
+        ],
+        "transitGatewayRouteTableId": ""
+      }
+    ]
+  }
+}

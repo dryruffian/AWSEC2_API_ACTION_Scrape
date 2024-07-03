@@ -1,0 +1,7 @@
+{
+    "action": "InternetGatewayAttachment",
+    "content_parameters": {
+        "state": "",
+        "vpcId": ""
+    }
+}

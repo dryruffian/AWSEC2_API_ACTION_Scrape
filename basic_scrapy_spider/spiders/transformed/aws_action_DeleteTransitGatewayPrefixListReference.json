@@ -1,0 +1,27 @@
+{
+  "action": "DeleteTransitGatewayPrefixListReference",
+  "request_parameters": {
+    "DryRun": "",
+    "PrefixListId": "",
+    "TransitGatewayRouteTableId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "transitGatewayPrefixListReference": [
+      {
+        "blackhole": "",
+        "prefixListId": "",
+        "prefixListOwnerId": "",
+        "state": "",
+        "transitGatewayAttachment": [
+          {
+            "resourceId": "",
+            "resourceType": "",
+            "transitGatewayAttachmentId": ""
+          }
+        ],
+        "transitGatewayRouteTableId": ""
+      }
+    ]
+  }
+}

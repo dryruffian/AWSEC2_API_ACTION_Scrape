@@ -1,0 +1,7 @@
+{
+    "action": "DnsEntry",
+    "content_parameters": {
+        "dnsName": "",
+        "hostedZoneId": ""
+    }
+}

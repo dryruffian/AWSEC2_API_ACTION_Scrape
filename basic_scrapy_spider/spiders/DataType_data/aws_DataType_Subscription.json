@@ -1,0 +1,10 @@
+{
+    "action": "Subscription",
+    "content_parameters": {
+        "destination": "",
+        "metric": "",
+        "period": "",
+        "source": "",
+        "statistic": ""
+    }
+}

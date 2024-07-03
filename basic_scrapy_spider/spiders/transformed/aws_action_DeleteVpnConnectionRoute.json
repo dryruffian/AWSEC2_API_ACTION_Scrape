@@ -1,0 +1,11 @@
+{
+  "action": "DeleteVpnConnectionRoute",
+  "request_parameters": {
+    "DestinationCidrBlock": "",
+    "VpnConnectionId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

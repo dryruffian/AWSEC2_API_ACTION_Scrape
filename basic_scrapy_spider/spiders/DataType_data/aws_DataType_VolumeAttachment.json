@@ -1,0 +1,13 @@
+{
+    "action": "VolumeAttachment",
+    "content_parameters": {
+        "associatedResource": "",
+        "attachTime": "",
+        "deleteOnTermination": "",
+        "device": "",
+        "instanceId": "",
+        "instanceOwningService": "",
+        "status": "",
+        "volumeId": ""
+    }
+}

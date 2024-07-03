@@ -1,0 +1,11 @@
+{
+    "action": "NetworkInterfacePermission",
+    "content_parameters": {
+        "awsAccountId": "",
+        "awsService": "",
+        "networkInterfaceId": "",
+        "networkInterfacePermissionId": "",
+        "permission": "",
+        "permissionState": "NetworkInterfacePermissionState"
+    }
+}

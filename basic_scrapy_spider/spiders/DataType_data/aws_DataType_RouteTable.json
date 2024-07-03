@@ -1,0 +1,12 @@
+{
+    "action": "RouteTable",
+    "content_parameters": {
+        "associationSet": "RouteTableAssociation",
+        "ownerId": "",
+        "propagatingVgwSet": "PropagatingVgw",
+        "routeSet": "Route",
+        "routeTableId": "",
+        "tagSet": "Tag",
+        "vpcId": ""
+    }
+}

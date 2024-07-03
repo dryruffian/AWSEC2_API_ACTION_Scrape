@@ -1,0 +1,17 @@
+{
+    "action": "NatGateway",
+    "content_parameters": {
+        "connectivityType": "",
+        "createTime": "",
+        "deleteTime": "",
+        "failureCode": "",
+        "failureMessage": "",
+        "natGatewayAddressSet": "NatGatewayAddress",
+        "natGatewayId": "",
+        "provisionedBandwidth": "ProvisionedBandwidth",
+        "state": "",
+        "subnetId": "",
+        "tagSet": "Tag",
+        "vpcId": ""
+    }
+}

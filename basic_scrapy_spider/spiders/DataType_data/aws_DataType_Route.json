@@ -1,0 +1,21 @@
+{
+    "action": "Route",
+    "content_parameters": {
+        "carrierGatewayId": "",
+        "coreNetworkArn": "",
+        "destinationCidrBlock": "",
+        "destinationIpv6CidrBlock": "",
+        "destinationPrefixListId": "",
+        "egressOnlyInternetGatewayId": "",
+        "gatewayId": "",
+        "instanceId": "",
+        "instanceOwnerId": "",
+        "localGatewayId": "",
+        "natGatewayId": "",
+        "networkInterfaceId": "",
+        "origin": "",
+        "state": "",
+        "transitGatewayId": "",
+        "vpcPeeringConnectionId": ""
+    }
+}

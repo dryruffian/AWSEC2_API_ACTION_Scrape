@@ -1,0 +1,20 @@
+{
+  "action": "DescribeIpamByoasn",
+  "request_parameters": {
+    "DryRun": "",
+    "MaxResults": "",
+    "NextToken": ""
+  },
+  "response_elements": {
+    "byoasnSet": [
+      {
+        "asn": "",
+        "ipamId": "",
+        "state": "",
+        "statusMessage": ""
+      }
+    ],
+    "nextToken": "",
+    "requestId": ""
+  }
+}

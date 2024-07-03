@@ -1,0 +1,11 @@
+{
+    "action": "TransitGatewayConnectPeer",
+    "content_parameters": {
+        "connectPeerConfiguration": "TransitGatewayConnectPeerConfiguration",
+        "creationTime": "",
+        "state": "",
+        "tagSet": "Tag",
+        "transitGatewayAttachmentId": "",
+        "transitGatewayConnectPeerId": ""
+    }
+}

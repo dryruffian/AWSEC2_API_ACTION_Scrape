@@ -1,0 +1,17 @@
+{
+    "action": "DeregisterTransitGatewayMulticastGroupSources",
+    "request_parameters": {
+        "DryRun": "",
+        "GroupIpAddress": "",
+        "NetworkInterfaceIds.N": "",
+        "TransitGatewayMulticastDomainId": ""
+    },
+    "response_elements": {
+        "deregisteredMulticastGroupSources": {
+            "deregisteredNetworkInterfaceIds": "",
+            "groupIpAddress": "",
+            "transitGatewayMulticastDomainId": ""
+        },
+        "requestId": ""
+    }
+}

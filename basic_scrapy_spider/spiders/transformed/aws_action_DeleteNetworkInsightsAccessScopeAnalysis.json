@@ -1,0 +1,11 @@
+{
+  "action": "DeleteNetworkInsightsAccessScopeAnalysis",
+  "request_parameters": {
+    "DryRun": "",
+    "NetworkInsightsAccessScopeAnalysisId": ""
+  },
+  "response_elements": {
+    "networkInsightsAccessScopeAnalysisId": "",
+    "requestId": ""
+  }
+}

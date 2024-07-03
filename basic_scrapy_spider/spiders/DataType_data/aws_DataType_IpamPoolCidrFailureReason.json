@@ -1,0 +1,7 @@
+{
+    "action": "IpamPoolCidrFailureReason",
+    "content_parameters": {
+        "code": "",
+        "message": ""
+    }
+}

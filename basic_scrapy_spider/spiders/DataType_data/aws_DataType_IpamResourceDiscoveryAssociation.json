@@ -1,0 +1,16 @@
+{
+    "action": "IpamResourceDiscoveryAssociation",
+    "content_parameters": {
+        "ipamArn": "",
+        "ipamId": "",
+        "ipamRegion": "",
+        "ipamResourceDiscoveryAssociationArn": "",
+        "ipamResourceDiscoveryAssociationId": "",
+        "ipamResourceDiscoveryId": "",
+        "isDefault": "",
+        "ownerId": "",
+        "resourceDiscoveryStatus": "",
+        "state": "",
+        "tagSet": "Tag"
+    }
+}

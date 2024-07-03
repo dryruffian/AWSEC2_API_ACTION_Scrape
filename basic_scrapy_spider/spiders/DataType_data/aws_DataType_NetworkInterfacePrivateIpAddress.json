@@ -1,0 +1,9 @@
+{
+    "action": "NetworkInterfacePrivateIpAddress",
+    "content_parameters": {
+        "association": "NetworkInterfaceAssociation",
+        "primary": "",
+        "privateDnsName": "",
+        "privateIpAddress": ""
+    }
+}

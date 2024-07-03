@@ -1,0 +1,7 @@
+{
+    "action": "VerifiedAccessSseSpecificationRequest",
+    "content_parameters": {
+        "CustomerManagedKeyEnabled": "",
+        "KmsKeyArn": ""
+    }
+}

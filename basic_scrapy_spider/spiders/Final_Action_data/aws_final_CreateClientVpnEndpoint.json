@@ -1,0 +1,135 @@
+{
+    "eventVersion": "1.05",
+    "userIdentity": {
+        "type": "",
+        "principalId": "",
+        "arn": "",
+        "accountId": "",
+        "accessKeyId": "",
+        "userName": "",
+        "sessionContext": {
+            "attributes": {
+                "mfaAuthenticated": "",
+                "creationDate": "",
+                "sourceIdentity": ""
+            },
+            "sessionIssuer": {
+                "type": "",
+                "userName": "",
+                "principalId": "",
+                "arn": "",
+                "accountId": ""
+            },
+            "webIdFederationData": {
+                "federatedProvider": "",
+                "attributes": ""
+            }
+        },
+        "invokedBy": ""
+    },
+    "eventTime": "2020-02-26T00:56:34Z",
+    "eventSource": "ec2.amazonaws.com",
+    "eventName": "CreateClientVpnEndpoint",
+    "awsRegion": "",
+    "sourceIPAddress": "10.1.1.1",
+    "userAgent": "",
+    "errorCode": "",
+    "errorMessage": "",
+    "requestParameters": {
+        "Authentication.N": [
+            {
+                "ActiveDirectory": [
+                    {
+                        "DirectoryId": ""
+                    }
+                ],
+                "FederatedAuthentication": [
+                    {
+                        "SAMLProviderArn": "",
+                        "SelfServiceSAMLProviderArn": ""
+                    }
+                ],
+                "MutualAuthentication": [
+                    {
+                        "ClientRootCertificateChainArn": ""
+                    }
+                ],
+                "Type": ""
+            }
+        ],
+        "ClientCidrBlock": "",
+        "ClientConnectOptions": [
+            {
+                "Enabled": "",
+                "LambdaFunctionArn": ""
+            }
+        ],
+        "ClientLoginBannerOptions": [
+            {
+                "BannerText": "",
+                "Enabled": ""
+            }
+        ],
+        "ClientToken": "",
+        "ConnectionLogOptions": [
+            {
+                "CloudwatchLogGroup": "",
+                "CloudwatchLogStream": "",
+                "Enabled": ""
+            }
+        ],
+        "Description": "",
+        "DnsServers.N": "",
+        "DryRun": "",
+        "SecurityGroupId.N": "",
+        "SelfServicePortal": "",
+        "ServerCertificateArn": "",
+        "SessionTimeoutHours": "",
+        "SplitTunnel": "",
+        "TagSpecification.N": [
+            {
+                "ResourceType": "",
+                "Tags": [
+                    {
+                        "Key": "",
+                        "Value": ""
+                    }
+                ]
+            }
+        ],
+        "TransportProtocol": "",
+        "VpcId": "",
+        "VpnPort": ""
+    },
+    "responseElements": {
+        "clientVpnEndpointId": "",
+        "dnsName": "",
+        "requestId": "",
+        "status": [
+            {
+                "code": "",
+                "message": ""
+            }
+        ]
+    },
+    "requestID": "",
+    "eventType": "",
+    "apiVersion": "",
+    "managementEvent": "",
+    "readOnly": "",
+    "resources": "",
+    "recipientAccountId": "",
+    "serviceEventDetails": "",
+    "sharedEventID": "",
+    "vpcEndpointId": "",
+    "eventCategory": "",
+    "addendum": "",
+    "sessionCredentialFromConsole": "",
+    "edgeDeviceDetails": "",
+    "tlsDetails": {
+        "tlsVersion": "",
+        "cipherSuite": "",
+        "clientProvidedHostHeader": ""
+    },
+    "eventID": ""
+}

@@ -1,0 +1,78 @@
+{
+  "action": "CreateSubnet",
+  "request_parameters": {
+    "AvailabilityZone": "",
+    "AvailabilityZoneId": "",
+    "CidrBlock": "",
+    "DryRun": "",
+    "Ipv4IpamPoolId": "",
+    "Ipv4NetmaskLength": "",
+    "Ipv6CidrBlock": "",
+    "Ipv6IpamPoolId": "",
+    "Ipv6Native": "",
+    "Ipv6NetmaskLength": "",
+    "OutpostArn": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "VpcId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "subnet": [
+      {
+        "assignIpv6AddressOnCreation": "",
+        "availabilityZone": "",
+        "availabilityZoneId": "",
+        "availableIpAddressCount": "",
+        "cidrBlock": "",
+        "customerOwnedIpv4Pool": "",
+        "defaultForAz": "",
+        "enableDns64": "",
+        "enableLniAtDeviceIndex": "",
+        "ipv6CidrBlockAssociationSet": [
+          {
+            "associationId": "",
+            "ipv6CidrBlock": "",
+            "ipv6CidrBlockState": [
+              {
+                "state": "",
+                "statusMessage": ""
+              }
+            ]
+          }
+        ],
+        "ipv6Native": "",
+        "mapCustomerOwnedIpOnLaunch": "",
+        "mapPublicIpOnLaunch": "",
+        "outpostArn": "",
+        "ownerId": "",
+        "privateDnsNameOptionsOnLaunch": [
+          {
+            "enableResourceNameDnsAAAARecord": "",
+            "enableResourceNameDnsARecord": "",
+            "hostnameType": ""
+          }
+        ],
+        "state": "",
+        "subnetArn": "",
+        "subnetId": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "vpcId": ""
+      }
+    ]
+  }
+}

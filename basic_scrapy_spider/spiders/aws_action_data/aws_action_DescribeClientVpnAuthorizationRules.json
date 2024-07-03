@@ -1,0 +1,28 @@
+{
+    "action": "DescribeClientVpnAuthorizationRules",
+    "request_parameters": {
+        "ClientVpnEndpointId": "",
+        "DryRun": "",
+        "Filter.N": {
+            "Name": "",
+            "Values": ""
+        },
+        "MaxResults": "",
+        "NextToken": ""
+    },
+    "response_elements": {
+        "authorizationRule": {
+            "accessAll": "",
+            "clientVpnEndpointId": "",
+            "description": "",
+            "destinationCidr": "",
+            "groupId": "",
+            "status": {
+                "code": "",
+                "message": ""
+            }
+        },
+        "nextToken": "",
+        "requestId": ""
+    }
+}

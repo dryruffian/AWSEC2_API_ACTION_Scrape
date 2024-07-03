@@ -1,0 +1,17 @@
+{
+    "action": "DeprovisionIpamByoasn",
+    "request_parameters": {
+        "Asn": "",
+        "DryRun": "",
+        "IpamId": ""
+    },
+    "response_elements": {
+        "byoasn": {
+            "asn": "",
+            "ipamId": "",
+            "state": "",
+            "statusMessage": ""
+        },
+        "requestId": ""
+    }
+}

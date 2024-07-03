@@ -1,0 +1,11 @@
+{
+  "action": "DeleteDhcpOptions",
+  "request_parameters": {
+    "DhcpOptionsId": "",
+    "DryRun": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

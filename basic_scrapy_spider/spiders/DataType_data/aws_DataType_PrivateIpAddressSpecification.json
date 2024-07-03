@@ -1,0 +1,7 @@
+{
+    "action": "PrivateIpAddressSpecification",
+    "content_parameters": {
+        "Primary": "",
+        "PrivateIpAddress": ""
+    }
+}

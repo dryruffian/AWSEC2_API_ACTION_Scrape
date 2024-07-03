@@ -1,0 +1,11 @@
+{
+  "action": "DeletePublicIpv4Pool",
+  "request_parameters": {
+    "DryRun": "",
+    "PoolId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "returnValue": ""
+  }
+}

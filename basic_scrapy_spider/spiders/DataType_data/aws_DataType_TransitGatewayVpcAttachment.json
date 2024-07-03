@@ -1,0 +1,14 @@
+{
+    "action": "TransitGatewayVpcAttachment",
+    "content_parameters": {
+        "creationTime": "",
+        "options": "TransitGatewayVpcAttachmentOptions",
+        "state": "",
+        "subnetIds": "",
+        "tagSet": "Tag",
+        "transitGatewayAttachmentId": "",
+        "transitGatewayId": "",
+        "vpcId": "",
+        "vpcOwnerId": ""
+    }
+}

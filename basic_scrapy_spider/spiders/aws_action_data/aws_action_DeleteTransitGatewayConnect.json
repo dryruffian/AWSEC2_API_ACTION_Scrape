@@ -1,0 +1,24 @@
+{
+    "action": "DeleteTransitGatewayConnect",
+    "request_parameters": {
+        "DryRun": "",
+        "TransitGatewayAttachmentId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "transitGatewayConnect": {
+            "creationTime": "",
+            "options": {
+                "protocol": ""
+            },
+            "state": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "transitGatewayAttachmentId": "",
+            "transitGatewayId": "",
+            "transportTransitGatewayAttachmentId": ""
+        }
+    }
+}

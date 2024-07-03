@@ -1,0 +1,13 @@
+{
+    "action": "NatGatewayAddress",
+    "content_parameters": {
+        "allocationId": "",
+        "associationId": "",
+        "failureMessage": "",
+        "isPrimary": "",
+        "networkInterfaceId": "",
+        "privateIp": "",
+        "publicIp": "",
+        "status": ""
+    }
+}

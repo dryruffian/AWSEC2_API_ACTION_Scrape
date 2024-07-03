@@ -1,0 +1,16 @@
+{
+    "action": "LocalGatewayRoute",
+    "content_parameters": {
+        "coipPoolId": "",
+        "destinationCidrBlock": "",
+        "destinationPrefixListId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "localGatewayVirtualInterfaceGroupId": "",
+        "networkInterfaceId": "",
+        "ownerId": "",
+        "state": "",
+        "subnetId": "",
+        "type": ""
+    }
+}

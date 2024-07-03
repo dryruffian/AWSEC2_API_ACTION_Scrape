@@ -1,0 +1,11 @@
+{
+    "action": "DeleteVpcPeeringConnection",
+    "request_parameters": {
+        "DryRun": "",
+        "VpcPeeringConnectionId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "return": ""
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "action": "CreateVerifiedAccessEndpointEniOptions",
+    "content_parameters": {
+        "NetworkInterfaceId": "",
+        "Port": "",
+        "Protocol": ""
+    }
+}

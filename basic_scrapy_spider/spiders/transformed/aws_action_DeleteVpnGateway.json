@@ -1,0 +1,11 @@
+{
+  "action": "DeleteVpnGateway",
+  "request_parameters": {
+    "DryRun": "",
+    "VpnGatewayId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

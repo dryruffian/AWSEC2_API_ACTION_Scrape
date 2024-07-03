@@ -1,0 +1,54 @@
+{
+  "action": "DescribeCapacityReservationFleets",
+  "request_parameters": {
+    "CapacityReservationFleetId.N": "",
+    "DryRun": "",
+    "Filter.N": [
+      {
+        "Name": "",
+        "Values": ""
+      }
+    ],
+    "MaxResults": "",
+    "NextToken": ""
+  },
+  "response_elements": {
+    "capacityReservationFleetSet": [
+      {
+        "allocationStrategy": "",
+        "capacityReservationFleetArn": "",
+        "capacityReservationFleetId": "",
+        "createTime": "",
+        "endDate": "",
+        "instanceMatchCriteria": "",
+        "instanceTypeSpecificationSet": [
+          {
+            "availabilityZone": "",
+            "availabilityZoneId": "",
+            "capacityReservationId": "",
+            "createDate": "",
+            "ebsOptimized": "",
+            "fulfilledCapacity": "",
+            "instancePlatform": "",
+            "instanceType": "",
+            "priority": "",
+            "totalInstanceCount": "",
+            "weight": ""
+          }
+        ],
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "tenancy": "",
+        "totalFulfilledCapacity": "",
+        "totalTargetCapacity": ""
+      }
+    ],
+    "nextToken": "",
+    "requestId": ""
+  }
+}

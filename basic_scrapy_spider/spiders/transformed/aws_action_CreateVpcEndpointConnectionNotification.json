@@ -1,0 +1,26 @@
+{
+  "action": "CreateVpcEndpointConnectionNotification",
+  "request_parameters": {
+    "ClientToken": "",
+    "ConnectionEvents.N": "",
+    "ConnectionNotificationArn": "",
+    "DryRun": "",
+    "ServiceId": "",
+    "VpcEndpointId": ""
+  },
+  "response_elements": {
+    "clientToken": "",
+    "connectionNotification": [
+      {
+        "connectionEvents": "",
+        "connectionNotificationArn": "",
+        "connectionNotificationId": "",
+        "connectionNotificationState": "",
+        "connectionNotificationType": "",
+        "serviceId": "",
+        "vpcEndpointId": ""
+      }
+    ],
+    "requestId": ""
+  }
+}

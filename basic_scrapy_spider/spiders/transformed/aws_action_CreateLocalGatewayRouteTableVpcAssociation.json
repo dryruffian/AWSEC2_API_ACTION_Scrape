@@ -1,0 +1,39 @@
+{
+  "action": "CreateLocalGatewayRouteTableVpcAssociation",
+  "request_parameters": {
+    "DryRun": "",
+    "LocalGatewayRouteTableId": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "VpcId": ""
+  },
+  "response_elements": {
+    "localGatewayRouteTableVpcAssociation": [
+      {
+        "localGatewayId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "localGatewayRouteTableVpcAssociationId": "",
+        "ownerId": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "vpcId": ""
+      }
+    ],
+    "requestId": ""
+  }
+}

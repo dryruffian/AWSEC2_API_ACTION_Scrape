@@ -1,0 +1,30 @@
+{
+  "action": "DeleteIpamScope",
+  "request_parameters": {
+    "DryRun": "",
+    "IpamScopeId": ""
+  },
+  "response_elements": {
+    "ipamScope": [
+      {
+        "description": "",
+        "ipamArn": "",
+        "ipamRegion": "",
+        "ipamScopeArn": "",
+        "ipamScopeId": "",
+        "ipamScopeType": "",
+        "isDefault": "",
+        "ownerId": "",
+        "poolCount": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "requestId": ""
+  }
+}

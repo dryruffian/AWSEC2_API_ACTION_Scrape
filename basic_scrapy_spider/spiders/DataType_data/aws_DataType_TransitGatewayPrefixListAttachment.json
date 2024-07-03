@@ -1,0 +1,8 @@
+{
+    "action": "TransitGatewayPrefixListAttachment",
+    "content_parameters": {
+        "resourceId": "",
+        "resourceType": "",
+        "transitGatewayAttachmentId": ""
+    }
+}

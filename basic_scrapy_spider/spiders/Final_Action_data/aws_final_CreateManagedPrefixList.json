@@ -1,0 +1,104 @@
+{
+    "eventVersion": "1.05",
+    "userIdentity": {
+        "type": "",
+        "principalId": "",
+        "arn": "",
+        "accountId": "",
+        "accessKeyId": "",
+        "userName": "",
+        "sessionContext": {
+            "attributes": {
+                "mfaAuthenticated": "",
+                "creationDate": "",
+                "sourceIdentity": ""
+            },
+            "sessionIssuer": {
+                "type": "",
+                "userName": "",
+                "principalId": "",
+                "arn": "",
+                "accountId": ""
+            },
+            "webIdFederationData": {
+                "federatedProvider": "",
+                "attributes": ""
+            }
+        },
+        "invokedBy": ""
+    },
+    "eventTime": "2020-02-26T00:56:34Z",
+    "eventSource": "ec2.amazonaws.com",
+    "eventName": "CreateManagedPrefixList",
+    "awsRegion": "",
+    "sourceIPAddress": "10.1.1.1",
+    "userAgent": "",
+    "errorCode": "",
+    "errorMessage": "",
+    "requestParameters": {
+        "AddressFamily": "",
+        "ClientToken": "",
+        "DryRun": "",
+        "Entry.N": [
+            {
+                "Cidr": "",
+                "Description": ""
+            }
+        ],
+        "MaxEntries": "",
+        "PrefixListName": "",
+        "TagSpecification.N": [
+            {
+                "ResourceType": "",
+                "Tags": [
+                    {
+                        "Key": "",
+                        "Value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "responseElements": {
+        "prefixList": [
+            {
+                "addressFamily": "",
+                "maxEntries": "",
+                "ownerId": "",
+                "prefixListArn": "",
+                "prefixListId": "",
+                "prefixListName": "",
+                "state": "",
+                "stateMessage": "",
+                "tagSet": [
+                    {
+                        "Key": "",
+                        "Value": ""
+                    }
+                ],
+                "version": ""
+            }
+        ],
+        "requestId": ""
+    },
+    "requestID": "",
+    "eventType": "",
+    "apiVersion": "",
+    "managementEvent": "",
+    "readOnly": "",
+    "resources": "",
+    "recipientAccountId": "",
+    "serviceEventDetails": "",
+    "sharedEventID": "",
+    "vpcEndpointId": "",
+    "eventCategory": "",
+    "addendum": "",
+    "sessionCredentialFromConsole": "",
+    "edgeDeviceDetails": "",
+    "tlsDetails": {
+        "tlsVersion": "",
+        "cipherSuite": "",
+        "clientProvidedHostHeader": ""
+    },
+    "eventID": ""
+}

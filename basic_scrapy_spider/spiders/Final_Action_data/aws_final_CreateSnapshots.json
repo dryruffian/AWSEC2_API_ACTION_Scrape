@@ -1,0 +1,106 @@
+{
+    "eventVersion": "1.05",
+    "userIdentity": {
+        "type": "",
+        "principalId": "",
+        "arn": "",
+        "accountId": "",
+        "accessKeyId": "",
+        "userName": "",
+        "sessionContext": {
+            "attributes": {
+                "mfaAuthenticated": "",
+                "creationDate": "",
+                "sourceIdentity": ""
+            },
+            "sessionIssuer": {
+                "type": "",
+                "userName": "",
+                "principalId": "",
+                "arn": "",
+                "accountId": ""
+            },
+            "webIdFederationData": {
+                "federatedProvider": "",
+                "attributes": ""
+            }
+        },
+        "invokedBy": ""
+    },
+    "eventTime": "2020-02-26T00:56:34Z",
+    "eventSource": "ec2.amazonaws.com",
+    "eventName": "CreateSnapshots",
+    "awsRegion": "",
+    "sourceIPAddress": "10.1.1.1",
+    "userAgent": "",
+    "errorCode": "",
+    "errorMessage": "",
+    "requestParameters": {
+        "CopyTagsFromSource": "",
+        "Description": "",
+        "DryRun": "",
+        "InstanceSpecification": [
+            {
+                "InstanceId": "",
+                "ExcludeBootVolume": "",
+                "ExcludeDataVolumeIds": ""
+            }
+        ],
+        "OutpostArn": "",
+        "TagSpecification.N": [
+            {
+                "ResourceType": "",
+                "Tags": [
+                    {
+                        "Key": "",
+                        "Value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "responseElements": {
+        "requestId": "",
+        "snapshotSet": [
+            {
+                "description": "",
+                "encrypted": "",
+                "outpostArn": "",
+                "ownerId": "",
+                "progress": "",
+                "snapshotId": "",
+                "sseType": "",
+                "startTime": "",
+                "state": "",
+                "tagSet": [
+                    {
+                        "Key": "",
+                        "Value": ""
+                    }
+                ],
+                "volumeId": "",
+                "volumeSize": ""
+            }
+        ]
+    },
+    "requestID": "",
+    "eventType": "",
+    "apiVersion": "",
+    "managementEvent": "",
+    "readOnly": "",
+    "resources": "",
+    "recipientAccountId": "",
+    "serviceEventDetails": "",
+    "sharedEventID": "",
+    "vpcEndpointId": "",
+    "eventCategory": "",
+    "addendum": "",
+    "sessionCredentialFromConsole": "",
+    "edgeDeviceDetails": "",
+    "tlsDetails": {
+        "tlsVersion": "",
+        "cipherSuite": "",
+        "clientProvidedHostHeader": ""
+    },
+    "eventID": ""
+}

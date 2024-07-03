@@ -1,0 +1,22 @@
+{
+    "action": "DeleteSubnetCidrReservation",
+    "request_parameters": {
+        "DryRun": "",
+        "SubnetCidrReservationId": ""
+    },
+    "response_elements": {
+        "deletedSubnetCidrReservation": {
+            "cidr": "",
+            "description": "",
+            "ownerId": "",
+            "reservationType": "",
+            "subnetCidrReservationId": "",
+            "subnetId": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            }
+        },
+        "requestId": ""
+    }
+}

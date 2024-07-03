@@ -1,0 +1,12 @@
+{
+    "action": "NetworkAcl",
+    "content_parameters": {
+        "associationSet": "NetworkAclAssociation",
+        "default": "",
+        "entrySet": "NetworkAclEntry",
+        "networkAclId": "",
+        "ownerId": "",
+        "tagSet": "Tag",
+        "vpcId": ""
+    }
+}

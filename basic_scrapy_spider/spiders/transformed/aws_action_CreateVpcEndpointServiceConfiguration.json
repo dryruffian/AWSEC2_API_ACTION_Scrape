@@ -1,0 +1,62 @@
+{
+  "action": "CreateVpcEndpointServiceConfiguration",
+  "request_parameters": {
+    "AcceptanceRequired": "",
+    "ClientToken": "",
+    "DryRun": "",
+    "GatewayLoadBalancerArn.N": "",
+    "NetworkLoadBalancerArn.N": "",
+    "PrivateDnsName": "",
+    "SupportedIpAddressType.N": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "response_elements": {
+    "clientToken": "",
+    "requestId": "",
+    "serviceConfiguration": [
+      {
+        "acceptanceRequired": "",
+        "availabilityZoneSet": "",
+        "baseEndpointDnsNameSet": "",
+        "gatewayLoadBalancerArnSet": "",
+        "managesVpcEndpoints": "",
+        "networkLoadBalancerArnSet": "",
+        "payerResponsibility": "",
+        "privateDnsName": "",
+        "privateDnsNameConfiguration": [
+          {
+            "name": "",
+            "state": "",
+            "type": "",
+            "value": ""
+          }
+        ],
+        "serviceId": "",
+        "serviceName": "",
+        "serviceState": "",
+        "serviceType": [
+          {
+            "serviceType": ""
+          }
+        ],
+        "supportedIpAddressTypeSet": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  }
+}

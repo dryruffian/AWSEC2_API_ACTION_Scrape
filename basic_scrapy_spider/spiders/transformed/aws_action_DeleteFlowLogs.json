@@ -1,0 +1,21 @@
+{
+  "action": "DeleteFlowLogs",
+  "request_parameters": {
+    "DryRun": "",
+    "FlowLogId.N": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "unsuccessful": [
+      {
+        "error": [
+          {
+            "code": "",
+            "message": ""
+          }
+        ],
+        "resourceId": ""
+      }
+    ]
+  }
+}

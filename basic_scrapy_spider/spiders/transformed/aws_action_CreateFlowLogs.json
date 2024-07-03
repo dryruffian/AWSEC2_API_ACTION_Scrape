@@ -1,0 +1,51 @@
+{
+  "action": "CreateFlowLogs",
+  "request_parameters": {
+    "ClientToken": "",
+    "DeliverCrossAccountRole": "",
+    "DeliverLogsPermissionArn": "",
+    "DestinationOptions": [
+      {
+        "FileFormat": "",
+        "HiveCompatiblePartitions": "",
+        "PerHourPartition": ""
+      }
+    ],
+    "DryRun": "",
+    "LogDestination": "",
+    "LogDestinationType": "",
+    "LogFormat": "",
+    "LogGroupName": "",
+    "MaxAggregationInterval": "",
+    "ResourceId.N": "",
+    "ResourceType": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "TrafficType": ""
+  },
+  "response_elements": {
+    "clientToken": "",
+    "flowLogIdSet": "",
+    "requestId": "",
+    "unsuccessful": [
+      {
+        "error": [
+          {
+            "code": "",
+            "message": ""
+          }
+        ],
+        "resourceId": ""
+      }
+    ]
+  }
+}

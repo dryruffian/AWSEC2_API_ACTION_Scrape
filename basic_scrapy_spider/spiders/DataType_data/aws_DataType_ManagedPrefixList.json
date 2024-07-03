@@ -1,0 +1,15 @@
+{
+    "action": "ManagedPrefixList",
+    "content_parameters": {
+        "addressFamily": "",
+        "maxEntries": "",
+        "ownerId": "",
+        "prefixListArn": "",
+        "prefixListId": "",
+        "prefixListName": "",
+        "state": "",
+        "stateMessage": "",
+        "tagSet": "Tag",
+        "version": ""
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "action": "DeleteLocalGatewayRouteTableVirtualInterfaceGroupAssociation",
+  "request_parameters": {
+    "DryRun": "",
+    "LocalGatewayRouteTableVirtualInterfaceGroupAssociationId": ""
+  },
+  "response_elements": {
+    "localGatewayRouteTableVirtualInterfaceGroupAssociation": [
+      {
+        "localGatewayId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "localGatewayRouteTableVirtualInterfaceGroupAssociationId": "",
+        "localGatewayVirtualInterfaceGroupId": "",
+        "ownerId": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "requestId": ""
+  }
+}

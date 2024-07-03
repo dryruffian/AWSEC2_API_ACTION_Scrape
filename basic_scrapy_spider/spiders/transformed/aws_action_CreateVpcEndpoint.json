@@ -1,0 +1,92 @@
+{
+  "action": "CreateVpcEndpoint",
+  "request_parameters": {
+    "ClientToken": "",
+    "DnsOptions": [
+      {
+        "DnsRecordIpType": "",
+        "PrivateDnsOnlyForInboundResolverEndpoint": ""
+      }
+    ],
+    "DryRun": "",
+    "IpAddressType": "",
+    "PolicyDocument": "",
+    "PrivateDnsEnabled": "",
+    "RouteTableId.N": "",
+    "SecurityGroupId.N": "",
+    "ServiceName": "",
+    "SubnetConfiguration.N": [
+      {
+        "Ipv4": "",
+        "Ipv6": "",
+        "SubnetId": ""
+      }
+    ],
+    "SubnetId.N": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "VpcEndpointType": "",
+    "VpcId": ""
+  },
+  "response_elements": {
+    "clientToken": "",
+    "requestId": "",
+    "vpcEndpoint": [
+      {
+        "creationTimestamp": "",
+        "dnsEntrySet": [
+          {
+            "dnsName": "",
+            "hostedZoneId": ""
+          }
+        ],
+        "dnsOptions": [
+          {
+            "dnsRecordIpType": "",
+            "privateDnsOnlyForInboundResolverEndpoint": ""
+          }
+        ],
+        "groupSet": [
+          {
+            "groupId": "",
+            "groupName": ""
+          }
+        ],
+        "ipAddressType": "",
+        "lastError": [
+          {
+            "code": "",
+            "message": ""
+          }
+        ],
+        "networkInterfaceIdSet": "",
+        "ownerId": "",
+        "policyDocument": "",
+        "privateDnsEnabled": "",
+        "requesterManaged": "",
+        "routeTableIdSet": "",
+        "serviceName": "",
+        "state": "",
+        "subnetIdSet": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "vpcEndpointId": "",
+        "vpcEndpointType": "",
+        "vpcId": ""
+      }
+    ]
+  }
+}

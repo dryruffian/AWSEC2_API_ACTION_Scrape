@@ -1,0 +1,10 @@
+{
+    "action": "S3Storage",
+    "content_parameters": {
+        "AWSAccessKeyId": "",
+        "Bucket": "",
+        "Prefix": "",
+        "UploadPolicy": "",
+        "UploadPolicySignature": ""
+    }
+}

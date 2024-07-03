@@ -1,0 +1,8 @@
+{
+    "action": "ConnectionTrackingConfiguration",
+    "content_parameters": {
+        "tcpEstablishedTimeout": "",
+        "udpStreamTimeout": "",
+        "udpTimeout": ""
+    }
+}

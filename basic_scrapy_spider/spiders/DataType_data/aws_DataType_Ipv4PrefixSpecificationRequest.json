@@ -1,0 +1,6 @@
+{
+    "action": "Ipv4PrefixSpecificationRequest",
+    "content_parameters": {
+        "Ipv4Prefix": ""
+    }
+}

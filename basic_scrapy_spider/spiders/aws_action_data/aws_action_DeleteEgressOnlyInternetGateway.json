@@ -1,0 +1,11 @@
+{
+    "action": "DeleteEgressOnlyInternetGateway",
+    "request_parameters": {
+        "DryRun": "",
+        "EgressOnlyInternetGatewayId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "returnCode": ""
+    }
+}

@@ -1,0 +1,51 @@
+{
+  "action": "CreateSnapshots",
+  "request_parameters": {
+    "CopyTagsFromSource": "",
+    "Description": "",
+    "DryRun": "",
+    "InstanceSpecification": [
+      {
+        "InstanceId": "",
+        "ExcludeBootVolume": "",
+        "ExcludeDataVolumeIds": ""
+      }
+    ],
+    "OutpostArn": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "response_elements": {
+    "requestId": "",
+    "snapshotSet": [
+      {
+        "description": "",
+        "encrypted": "",
+        "outpostArn": "",
+        "ownerId": "",
+        "progress": "",
+        "snapshotId": "",
+        "sseType": "",
+        "startTime": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "volumeId": "",
+        "volumeSize": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "action": "CreateVolume",
+  "request_parameters": {
+    "AvailabilityZone": "",
+    "ClientToken": "",
+    "DryRun": "",
+    "Encrypted": "",
+    "Iops": "",
+    "KmsKeyId": "",
+    "MultiAttachEnabled": "",
+    "OutpostArn": "",
+    "Size": "",
+    "SnapshotId": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "Throughput": "",
+    "VolumeType": ""
+  },
+  "response_elements": {
+    "attachmentSet": [
+      {
+        "associatedResource": "",
+        "attachTime": "",
+        "deleteOnTermination": "",
+        "device": "",
+        "instanceId": "",
+        "instanceOwningService": "",
+        "status": "",
+        "volumeId": ""
+      }
+    ],
+    "availabilityZone": "",
+    "createTime": "",
+    "encrypted": "",
+    "fastRestored": "",
+    "iops": "",
+    "kmsKeyId": "",
+    "multiAttachEnabled": "",
+    "outpostArn": "",
+    "requestId": "",
+    "size": "",
+    "snapshotId": "",
+    "sseType": "",
+    "status": "",
+    "tagSet": [
+      {
+        "Key": "",
+        "Value": ""
+      }
+    ],
+    "throughput": "",
+    "volumeId": "",
+    "volumeType": ""
+  }
+}

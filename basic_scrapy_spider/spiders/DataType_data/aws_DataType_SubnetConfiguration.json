@@ -1,0 +1,8 @@
+{
+    "action": "SubnetConfiguration",
+    "content_parameters": {
+        "Ipv4": "",
+        "Ipv6": "",
+        "SubnetId": ""
+    }
+}

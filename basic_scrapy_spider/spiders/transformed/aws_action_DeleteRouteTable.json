@@ -1,0 +1,11 @@
+{
+  "action": "DeleteRouteTable",
+  "request_parameters": {
+    "DryRun": "",
+    "RouteTableId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

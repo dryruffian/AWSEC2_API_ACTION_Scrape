@@ -1,0 +1,11 @@
+{
+    "action": "AuthorizationRule",
+    "content_parameters": {
+        "accessAll": "",
+        "clientVpnEndpointId": "",
+        "description": "",
+        "destinationCidr": "",
+        "groupId": "",
+        "status": "ClientVpnAuthorizationRuleStatus"
+    }
+}

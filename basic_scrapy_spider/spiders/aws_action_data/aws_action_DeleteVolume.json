@@ -1,0 +1,11 @@
+{
+    "action": "DeleteVolume",
+    "request_parameters": {
+        "DryRun": "",
+        "VolumeId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "return": ""
+    }
+}

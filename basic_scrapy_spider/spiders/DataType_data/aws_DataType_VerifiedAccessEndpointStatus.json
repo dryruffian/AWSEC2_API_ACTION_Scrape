@@ -1,0 +1,7 @@
+{
+    "action": "VerifiedAccessEndpointStatus",
+    "content_parameters": {
+        "code": "",
+        "message": ""
+    }
+}

@@ -1,0 +1,52 @@
+{
+  "action": "BundleInstance",
+  "request_parameters": {
+    "DryRun": "",
+    "InstanceId": "",
+    "Storage": [
+      {
+        "S3": [
+          {
+            "AWSAccessKeyId": "",
+            "Bucket": "",
+            "Prefix": "",
+            "UploadPolicy": "",
+            "UploadPolicySignature": ""
+          }
+        ]
+      }
+    ]
+  },
+  "response_elements": {
+    "bundleInstanceTask": [
+      {
+        "bundleId": "",
+        "error": [
+          {
+            "code": "",
+            "message": ""
+          }
+        ],
+        "instanceId": "",
+        "progress": "",
+        "startTime": "",
+        "state": "",
+        "storage": [
+          {
+            "S3": [
+              {
+                "AWSAccessKeyId": "",
+                "Bucket": "",
+                "Prefix": "",
+                "UploadPolicy": "",
+                "UploadPolicySignature": ""
+              }
+            ]
+          }
+        ],
+        "updateTime": ""
+      }
+    ],
+    "requestId": ""
+  }
+}

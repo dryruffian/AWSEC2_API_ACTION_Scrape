@@ -1,0 +1,29 @@
+{
+    "action": "IpamPool",
+    "content_parameters": {
+        "addressFamily": "",
+        "allocationDefaultNetmaskLength": "",
+        "allocationMaxNetmaskLength": "",
+        "allocationMinNetmaskLength": "",
+        "allocationResourceTagSet": "IpamResourceTag",
+        "autoImport": "",
+        "awsService": "",
+        "description": "",
+        "ipamArn": "",
+        "ipamPoolArn": "",
+        "ipamPoolId": "",
+        "ipamRegion": "",
+        "ipamScopeArn": "",
+        "ipamScopeType": "",
+        "locale": "",
+        "ownerId": "",
+        "poolDepth": "",
+        "publicIpSource": "",
+        "publiclyAdvertisable": "",
+        "sourceIpamPoolId": "",
+        "sourceResource": "IpamPoolSourceResource",
+        "state": "",
+        "stateMessage": "",
+        "tagSet": "Tag"
+    }
+}

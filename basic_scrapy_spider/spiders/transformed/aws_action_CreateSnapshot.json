@@ -1,0 +1,46 @@
+{
+  "action": "CreateSnapshot",
+  "request_parameters": {
+    "Description": "",
+    "DryRun": "",
+    "OutpostArn": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "VolumeId": ""
+  },
+  "response_elements": {
+    "dataEncryptionKeyId": "",
+    "description": "",
+    "encrypted": "",
+    "kmsKeyId": "",
+    "outpostArn": "",
+    "ownerAlias": "",
+    "ownerId": "",
+    "progress": "",
+    "requestId": "",
+    "restoreExpiryTime": "",
+    "snapshotId": "",
+    "sseType": "",
+    "startTime": "",
+    "status": "",
+    "statusMessage": "",
+    "storageTier": "",
+    "tagSet": [
+      {
+        "Key": "",
+        "Value": ""
+      }
+    ],
+    "volumeId": "",
+    "volumeSize": ""
+  }
+}

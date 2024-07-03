@@ -1,0 +1,17 @@
+{
+    "action": "SnapshotInfo",
+    "content_parameters": {
+        "description": "",
+        "encrypted": "",
+        "outpostArn": "",
+        "ownerId": "",
+        "progress": "",
+        "snapshotId": "",
+        "sseType": "",
+        "startTime": "",
+        "state": "",
+        "tagSet": "Tag",
+        "volumeId": "",
+        "volumeSize": ""
+    }
+}

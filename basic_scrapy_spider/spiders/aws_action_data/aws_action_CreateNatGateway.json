@@ -1,0 +1,57 @@
+{
+    "action": "CreateNatGateway",
+    "request_parameters": {
+        "AllocationId": "",
+        "ClientToken": "",
+        "ConnectivityType": "",
+        "DryRun": "",
+        "PrivateIpAddress": "",
+        "SecondaryAllocationId.N": "",
+        "SecondaryPrivateIpAddress.N": "",
+        "SecondaryPrivateIpAddressCount": "",
+        "SubnetId": "",
+        "TagSpecification.N": {
+            "ResourceType": "",
+            "Tags": {
+                "Key": "",
+                "Value": ""
+            }
+        }
+    },
+    "response_elements": {
+        "clientToken": "",
+        "natGateway": {
+            "connectivityType": "",
+            "createTime": "",
+            "deleteTime": "",
+            "failureCode": "",
+            "failureMessage": "",
+            "natGatewayAddressSet": {
+                "allocationId": "",
+                "associationId": "",
+                "failureMessage": "",
+                "isPrimary": "",
+                "networkInterfaceId": "",
+                "privateIp": "",
+                "publicIp": "",
+                "status": ""
+            },
+            "natGatewayId": "",
+            "provisionedBandwidth": {
+                "provisioned": "",
+                "provisionTime": "",
+                "requested": "",
+                "requestTime": "",
+                "status": ""
+            },
+            "state": "",
+            "subnetId": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "vpcId": ""
+        },
+        "requestId": ""
+    }
+}

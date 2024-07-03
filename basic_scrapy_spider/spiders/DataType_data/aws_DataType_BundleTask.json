@@ -1,0 +1,13 @@
+{
+    "action": "BundleTask",
+    "content_parameters": {
+        "bundleId": "",
+        "error": "BundleTaskError",
+        "instanceId": "",
+        "progress": "",
+        "startTime": "",
+        "state": "",
+        "storage": "Storage",
+        "updateTime": ""
+    }
+}

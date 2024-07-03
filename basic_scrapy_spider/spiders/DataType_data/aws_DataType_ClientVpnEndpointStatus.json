@@ -1,0 +1,7 @@
+{
+    "action": "ClientVpnEndpointStatus",
+    "content_parameters": {
+        "code": "",
+        "message": ""
+    }
+}

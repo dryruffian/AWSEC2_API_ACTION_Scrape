@@ -1,0 +1,11 @@
+{
+    "action": "RouteTableAssociation",
+    "content_parameters": {
+        "associationState": "RouteTableAssociationState",
+        "gatewayId": "",
+        "main": "",
+        "routeTableAssociationId": "",
+        "routeTableId": "",
+        "subnetId": ""
+    }
+}

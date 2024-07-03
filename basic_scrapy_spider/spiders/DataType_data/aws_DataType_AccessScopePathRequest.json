@@ -1,0 +1,8 @@
+{
+    "action": "AccessScopePathRequest",
+    "content_parameters": {
+        "Destination": "PathStatementRequest",
+        "Source": "PathStatementRequest",
+        "ThroughResources": "ThroughResourcesStatementRequest"
+    }
+}

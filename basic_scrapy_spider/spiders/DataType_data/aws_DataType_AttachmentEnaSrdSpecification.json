@@ -1,0 +1,7 @@
+{
+    "action": "AttachmentEnaSrdSpecification",
+    "content_parameters": {
+        "enaSrdEnabled": "",
+        "enaSrdUdpSpecification": "AttachmentEnaSrdUdpSpecification"
+    }
+}

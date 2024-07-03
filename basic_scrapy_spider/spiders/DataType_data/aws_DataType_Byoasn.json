@@ -1,0 +1,9 @@
+{
+    "action": "Byoasn",
+    "content_parameters": {
+        "asn": "",
+        "ipamId": "",
+        "state": "",
+        "statusMessage": ""
+    }
+}

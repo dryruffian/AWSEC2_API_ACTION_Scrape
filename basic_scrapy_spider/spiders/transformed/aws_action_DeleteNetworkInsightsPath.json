@@ -1,0 +1,11 @@
+{
+  "action": "DeleteNetworkInsightsPath",
+  "request_parameters": {
+    "DryRun": "",
+    "NetworkInsightsPathId": ""
+  },
+  "response_elements": {
+    "networkInsightsPathId": "",
+    "requestId": ""
+  }
+}

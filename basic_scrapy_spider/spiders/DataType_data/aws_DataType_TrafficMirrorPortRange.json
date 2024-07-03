@@ -1,0 +1,7 @@
+{
+    "action": "TrafficMirrorPortRange",
+    "content_parameters": {
+        "fromPort": "",
+        "toPort": ""
+    }
+}

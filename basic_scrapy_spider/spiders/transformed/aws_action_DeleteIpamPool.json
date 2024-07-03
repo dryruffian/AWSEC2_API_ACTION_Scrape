@@ -1,0 +1,56 @@
+{
+  "action": "DeleteIpamPool",
+  "request_parameters": {
+    "Cascade": "",
+    "DryRun": "",
+    "IpamPoolId": ""
+  },
+  "response_elements": {
+    "ipamPool": [
+      {
+        "addressFamily": "",
+        "allocationDefaultNetmaskLength": "",
+        "allocationMaxNetmaskLength": "",
+        "allocationMinNetmaskLength": "",
+        "allocationResourceTagSet": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "autoImport": "",
+        "awsService": "",
+        "description": "",
+        "ipamArn": "",
+        "ipamPoolArn": "",
+        "ipamPoolId": "",
+        "ipamRegion": "",
+        "ipamScopeArn": "",
+        "ipamScopeType": "",
+        "locale": "",
+        "ownerId": "",
+        "poolDepth": "",
+        "publicIpSource": "",
+        "publiclyAdvertisable": "",
+        "sourceIpamPoolId": "",
+        "sourceResource": [
+          {
+            "resourceId": "",
+            "resourceOwner": "",
+            "resourceRegion": "",
+            "resourceType": ""
+          }
+        ],
+        "state": "",
+        "stateMessage": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "requestId": ""
+  }
+}

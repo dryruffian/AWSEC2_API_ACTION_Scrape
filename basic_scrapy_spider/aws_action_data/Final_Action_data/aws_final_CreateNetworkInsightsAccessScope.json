@@ -1,0 +1,309 @@
+{
+    "eventVersion": "1.05",
+    "userIdentity": {
+        "type": "",
+        "principalId": "",
+        "arn": "",
+        "accountId": "",
+        "accessKeyId": "",
+        "userName": "",
+        "sessionContext": {
+            "attributes": {
+                "mfaAuthenticated": "",
+                "creationDate": "",
+                "sourceIdentity": ""
+            },
+            "sessionIssuer": {
+                "type": "",
+                "userName": "",
+                "principalId": "",
+                "arn": "",
+                "accountId": ""
+            },
+            "webIdFederationData": {
+                "federatedProvider": "",
+                "attributes": ""
+            }
+        },
+        "invokedBy": ""
+    },
+    "eventTime": "2020-02-26T00:56:34Z",
+    "eventSource": "ec2.amazonaws.com",
+    "eventName": "CreateNetworkInsightsAccessScope",
+    "awsRegion": "",
+    "sourceIPAddress": "10.1.1.1",
+    "userAgent": "",
+    "errorCode": "",
+    "errorMessage": "",
+    "requestParameters": {
+        "ClientToken": "",
+        "DryRun": "",
+        "ExcludePath.N": [
+            {
+                "Destination": [
+                    {
+                        "PacketHeaderStatement": [
+                            {
+                                "DestinationAddresses": "",
+                                "DestinationPorts": "",
+                                "DestinationPrefixLists": "",
+                                "Protocols": "",
+                                "SourceAddresses": "",
+                                "SourcePorts": "",
+                                "SourcePrefixLists": ""
+                            }
+                        ],
+                        "ResourceStatement": [
+                            {
+                                "Resources": "",
+                                "ResourceTypes": ""
+                            }
+                        ]
+                    }
+                ],
+                "Source": [
+                    {
+                        "PacketHeaderStatement": [
+                            {
+                                "DestinationAddresses": "",
+                                "DestinationPorts": "",
+                                "DestinationPrefixLists": "",
+                                "Protocols": "",
+                                "SourceAddresses": "",
+                                "SourcePorts": "",
+                                "SourcePrefixLists": ""
+                            }
+                        ],
+                        "ResourceStatement": [
+                            {
+                                "Resources": "",
+                                "ResourceTypes": ""
+                            }
+                        ]
+                    }
+                ],
+                "ThroughResources": [
+                    {
+                        "ResourceStatement": [
+                            {
+                                "Resources": "",
+                                "ResourceTypes": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "MatchPath.N": [
+            {
+                "Destination": [
+                    {
+                        "PacketHeaderStatement": [
+                            {
+                                "DestinationAddresses": "",
+                                "DestinationPorts": "",
+                                "DestinationPrefixLists": "",
+                                "Protocols": "",
+                                "SourceAddresses": "",
+                                "SourcePorts": "",
+                                "SourcePrefixLists": ""
+                            }
+                        ],
+                        "ResourceStatement": [
+                            {
+                                "Resources": "",
+                                "ResourceTypes": ""
+                            }
+                        ]
+                    }
+                ],
+                "Source": [
+                    {
+                        "PacketHeaderStatement": [
+                            {
+                                "DestinationAddresses": "",
+                                "DestinationPorts": "",
+                                "DestinationPrefixLists": "",
+                                "Protocols": "",
+                                "SourceAddresses": "",
+                                "SourcePorts": "",
+                                "SourcePrefixLists": ""
+                            }
+                        ],
+                        "ResourceStatement": [
+                            {
+                                "Resources": "",
+                                "ResourceTypes": ""
+                            }
+                        ]
+                    }
+                ],
+                "ThroughResources": [
+                    {
+                        "ResourceStatement": "ResourceStatementRequest"
+                    }
+                ]
+            }
+        ],
+        "TagSpecification.N": [
+            {
+                "ResourceType": "",
+                "Tags": [
+                    {
+                        "Key": "",
+                        "Value": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "responseElements": {
+        "networkInsightsAccessScope": [
+            {
+                "createdDate": "",
+                "networkInsightsAccessScopeArn": "",
+                "networkInsightsAccessScopeId": "",
+                "tagSet": [
+                    {
+                        "Key": "",
+                        "Value": ""
+                    }
+                ],
+                "updatedDate": ""
+            }
+        ],
+        "networkInsightsAccessScopeContent": [
+            {
+                "excludePathSet": [
+                    {
+                        "destination": [
+                            {
+                                "packetHeaderStatement": [
+                                    {
+                                        "destinationAddressSet": "",
+                                        "destinationPortSet": "",
+                                        "destinationPrefixListSet": "",
+                                        "protocolSet": "",
+                                        "sourceAddressSet": "",
+                                        "sourcePortSet": "",
+                                        "sourcePrefixListSet": ""
+                                    }
+                                ],
+                                "resourceStatement": [
+                                    {
+                                        "resourceSet": "",
+                                        "resourceTypeSet": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "source": [
+                            {
+                                "packetHeaderStatement": [
+                                    {
+                                        "destinationAddressSet": "",
+                                        "destinationPortSet": "",
+                                        "destinationPrefixListSet": "",
+                                        "protocolSet": "",
+                                        "sourceAddressSet": "",
+                                        "sourcePortSet": "",
+                                        "sourcePrefixListSet": ""
+                                    }
+                                ],
+                                "resourceStatement": [
+                                    {
+                                        "resourceSet": "",
+                                        "resourceTypeSet": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "throughResourceSet": [
+                            {
+                                "resourceStatement": [
+                                    {
+                                        "resourceSet": "",
+                                        "resourceTypeSet": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "matchPathSet": [
+                    {
+                        "destination": [
+                            {
+                                "packetHeaderStatement": [
+                                    {
+                                        "destinationAddressSet": "",
+                                        "destinationPortSet": "",
+                                        "destinationPrefixListSet": "",
+                                        "protocolSet": "",
+                                        "sourceAddressSet": "",
+                                        "sourcePortSet": "",
+                                        "sourcePrefixListSet": ""
+                                    }
+                                ],
+                                "resourceStatement": [
+                                    {
+                                        "resourceSet": "",
+                                        "resourceTypeSet": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "source": [
+                            {
+                                "packetHeaderStatement": [
+                                    {
+                                        "destinationAddressSet": "",
+                                        "destinationPortSet": "",
+                                        "destinationPrefixListSet": "",
+                                        "protocolSet": "",
+                                        "sourceAddressSet": "",
+                                        "sourcePortSet": "",
+                                        "sourcePrefixListSet": ""
+                                    }
+                                ],
+                                "resourceStatement": [
+                                    {
+                                        "resourceSet": "",
+                                        "resourceTypeSet": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "throughResourceSet": [
+                            {
+                                "resourceStatement": "ResourceStatement"
+                            }
+                        ]
+                    }
+                ],
+                "networkInsightsAccessScopeId": ""
+            }
+        ],
+        "requestId": ""
+    },
+    "requestID": "",
+    "eventType": "",
+    "apiVersion": "",
+    "managementEvent": "",
+    "readOnly": "",
+    "resources": "",
+    "recipientAccountId": "",
+    "serviceEventDetails": "",
+    "sharedEventID": "",
+    "vpcEndpointId": "",
+    "eventCategory": "",
+    "addendum": "",
+    "sessionCredentialFromConsole": "",
+    "edgeDeviceDetails": "",
+    "tlsDetails": {
+        "tlsVersion": "",
+        "cipherSuite": "",
+        "clientProvidedHostHeader": ""
+    },
+    "eventID": ""
+}

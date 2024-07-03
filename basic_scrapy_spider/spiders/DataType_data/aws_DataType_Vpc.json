@@ -1,0 +1,15 @@
+{
+    "action": "Vpc",
+    "content_parameters": {
+        "cidrBlock": "",
+        "cidrBlockAssociationSet": "VpcCidrBlockAssociation",
+        "dhcpOptionsId": "",
+        "instanceTenancy": "",
+        "ipv6CidrBlockAssociationSet": "VpcIpv6CidrBlockAssociation",
+        "isDefault": "",
+        "ownerId": "",
+        "state": "",
+        "tagSet": "Tag",
+        "vpcId": ""
+    }
+}

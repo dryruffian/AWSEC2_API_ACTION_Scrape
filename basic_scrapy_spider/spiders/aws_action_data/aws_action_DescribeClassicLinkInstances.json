@@ -1,0 +1,29 @@
+{
+    "action": "DescribeClassicLinkInstances",
+    "request_parameters": {
+        "DryRun": "",
+        "Filter.N": {
+            "Name": "",
+            "Values": ""
+        },
+        "InstanceId.N": "",
+        "MaxResults": "",
+        "NextToken": ""
+    },
+    "response_elements": {
+        "instancesSet": {
+            "groupSet": {
+                "GroupId": "",
+                "GroupName": ""
+            },
+            "instanceId": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "vpcId": ""
+        },
+        "nextToken": "",
+        "requestId": ""
+    }
+}

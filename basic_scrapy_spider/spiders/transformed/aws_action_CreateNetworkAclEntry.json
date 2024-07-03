@@ -1,0 +1,29 @@
+{
+  "action": "CreateNetworkAclEntry",
+  "request_parameters": {
+    "CidrBlock": "",
+    "DryRun": "",
+    "Egress": "",
+    "Icmp": [
+      {
+        "Code": "",
+        "Type": ""
+      }
+    ],
+    "Ipv6CidrBlock": "",
+    "NetworkAclId": "",
+    "PortRange": [
+      {
+        "From": "",
+        "To": ""
+      }
+    ],
+    "Protocol": "",
+    "RuleAction": "",
+    "RuleNumber": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

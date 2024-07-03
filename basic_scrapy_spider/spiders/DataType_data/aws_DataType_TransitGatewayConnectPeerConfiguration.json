@@ -1,0 +1,10 @@
+{
+    "action": "TransitGatewayConnectPeerConfiguration",
+    "content_parameters": {
+        "bgpConfigurations": "TransitGatewayAttachmentBgpConfiguration",
+        "insideCidrBlocks": "",
+        "peerAddress": "",
+        "protocol": "",
+        "transitGatewayAddress": ""
+    }
+}

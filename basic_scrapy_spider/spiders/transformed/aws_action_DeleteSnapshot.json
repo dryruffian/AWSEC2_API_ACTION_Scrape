@@ -1,0 +1,11 @@
+{
+  "action": "DeleteSnapshot",
+  "request_parameters": {
+    "DryRun": "",
+    "SnapshotId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

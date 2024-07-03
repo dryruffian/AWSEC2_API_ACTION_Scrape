@@ -1,0 +1,13 @@
+{
+  "action": "DeleteNetworkAclEntry",
+  "request_parameters": {
+    "DryRun": "",
+    "Egress": "",
+    "NetworkAclId": "",
+    "RuleNumber": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

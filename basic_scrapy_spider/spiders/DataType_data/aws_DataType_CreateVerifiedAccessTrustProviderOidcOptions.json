@@ -1,0 +1,12 @@
+{
+    "action": "CreateVerifiedAccessTrustProviderOidcOptions",
+    "content_parameters": {
+        "AuthorizationEndpoint": "",
+        "ClientId": "",
+        "ClientSecret": "",
+        "Issuer": "",
+        "Scope": "",
+        "TokenEndpoint": "",
+        "UserInfoEndpoint": ""
+    }
+}

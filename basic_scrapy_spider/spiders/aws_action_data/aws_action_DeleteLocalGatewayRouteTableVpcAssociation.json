@@ -1,0 +1,23 @@
+{
+    "action": "DeleteLocalGatewayRouteTableVpcAssociation",
+    "request_parameters": {
+        "DryRun": "",
+        "LocalGatewayRouteTableVpcAssociationId": ""
+    },
+    "response_elements": {
+        "localGatewayRouteTableVpcAssociation": {
+            "localGatewayId": "",
+            "localGatewayRouteTableArn": "",
+            "localGatewayRouteTableId": "",
+            "localGatewayRouteTableVpcAssociationId": "",
+            "ownerId": "",
+            "state": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "vpcId": ""
+        },
+        "requestId": ""
+    }
+}

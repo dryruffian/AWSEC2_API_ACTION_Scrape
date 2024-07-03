@@ -1,0 +1,8 @@
+{
+    "action": "TransitGatewayMulticastDeregisteredGroupMembers",
+    "content_parameters": {
+        "deregisteredNetworkInterfaceIds": "",
+        "groupIpAddress": "",
+        "transitGatewayMulticastDomainId": ""
+    }
+}

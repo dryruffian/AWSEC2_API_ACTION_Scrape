@@ -1,0 +1,27 @@
+{
+    "action": "DeleteTransitGatewayMulticastDomain",
+    "request_parameters": {
+        "DryRun": "",
+        "TransitGatewayMulticastDomainId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "transitGatewayMulticastDomain": {
+            "creationTime": "",
+            "options": {
+                "autoAcceptSharedAssociations": "",
+                "igmpv2Support": "",
+                "staticSourcesSupport": ""
+            },
+            "ownerId": "",
+            "state": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "transitGatewayId": "",
+            "transitGatewayMulticastDomainArn": "",
+            "transitGatewayMulticastDomainId": ""
+        }
+    }
+}

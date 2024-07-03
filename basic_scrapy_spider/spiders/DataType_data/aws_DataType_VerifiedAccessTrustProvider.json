@@ -1,0 +1,17 @@
+{
+    "action": "VerifiedAccessTrustProvider",
+    "content_parameters": {
+        "creationTime": "",
+        "description": "",
+        "deviceOptions": "DeviceOptions",
+        "deviceTrustProviderType": "",
+        "lastUpdatedTime": "",
+        "oidcOptions": "OidcOptions",
+        "policyReferenceName": "",
+        "sseSpecification": "VerifiedAccessSseSpecificationResponse",
+        "tagSet": "Tag",
+        "trustProviderType": "",
+        "userTrustProviderType": "",
+        "verifiedAccessTrustProviderId": ""
+    }
+}

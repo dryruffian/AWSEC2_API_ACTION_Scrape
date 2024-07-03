@@ -1,0 +1,33 @@
+{
+    "action": "DescribeIpamResourceDiscoveries",
+    "request_parameters": {
+        "DryRun": "",
+        "Filter.N": {
+            "Name": "",
+            "Values": ""
+        },
+        "IpamResourceDiscoveryId.N": "",
+        "MaxResults": "",
+        "NextToken": ""
+    },
+    "response_elements": {
+        "ipamResourceDiscoverySet": {
+            "description": "",
+            "ipamResourceDiscoveryArn": "",
+            "ipamResourceDiscoveryId": "",
+            "ipamResourceDiscoveryRegion": "",
+            "isDefault": "",
+            "operatingRegionSet": {
+                "regionName": ""
+            },
+            "ownerId": "",
+            "state": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            }
+        },
+        "nextToken": "",
+        "requestId": ""
+    }
+}

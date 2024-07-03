@@ -1,0 +1,11 @@
+{
+  "action": "DeleteVpc",
+  "request_parameters": {
+    "DryRun": "",
+    "VpcId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

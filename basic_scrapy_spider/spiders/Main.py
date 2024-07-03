@@ -89,15 +89,15 @@ def scrape_aws_documentation(data_list):
     defer.returnValue(crawler.spider.results)
 
 
-# @defer.inlineCallbacks
-# def run_spider(data_list):
-#     result = yield scrape_aws_documentation(data_list)
-#     reactor.stop()
-#     defer.returnValue(result)
+@defer.inlineCallbacks
+def run_spider(data_list):
+    result = yield scrape_aws_documentation(data_list)
+    reactor.stop()
+    defer.returnValue(result)
 
 
 if __name__ == "__main__":
-    data = 'Tag'
+    data_list = ['cAssociation']
 
 
     def print_results(result):
@@ -109,4 +109,27 @@ if __name__ == "__main__":
             print("No data was scraped. Check for errors in the spider execution.")
 
 
-    scrape_aws_documentation(data)
+    def check_json_file_exists(directory, filename):
+        # Ensure the filename ends with .json
+        if not filename.endswith('.json'):
+            filename += '.json'
+
+        # Construct the full file path
+        file_path = os.path.join(directory, filename)
+
+        # Check if the file exists
+        if os.path.isfile(file_path):
+            print(f"File '{filename}' exists in directory '{directory}'.")
+            return True
+        else:
+            print(f"File '{filename}' does not exist in directory '{directory}'.")
+            return False
+
+
+
+    #     d = run_spider(data)
+    #     d.addCallback(print_results)
+    #     d.addErrback(lambda failure: print(f"An error occurred: {failure}"))
+    #
+    #
+    # reactor.run()

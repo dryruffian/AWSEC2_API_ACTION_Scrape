@@ -1,0 +1,33 @@
+{
+  "action": "DeleteLocalGatewayRouteTable",
+  "request_parameters": {
+    "DryRun": "",
+    "LocalGatewayRouteTableId": ""
+  },
+  "response_elements": {
+    "localGatewayRouteTable": [
+      {
+        "localGatewayId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "mode": "",
+        "outpostArn": "",
+        "ownerId": "",
+        "state": "",
+        "stateReason": [
+          {
+            "code": "",
+            "message": ""
+          }
+        ],
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "requestId": ""
+  }
+}

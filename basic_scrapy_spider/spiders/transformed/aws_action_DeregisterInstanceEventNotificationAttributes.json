@@ -1,0 +1,21 @@
+{
+  "action": "DeregisterInstanceEventNotificationAttributes",
+  "request_parameters": {
+    "DryRun": "",
+    "InstanceTagAttribute": [
+      {
+        "IncludeAllTagsOfInstance": "",
+        "InstanceTagKeys": ""
+      }
+    ]
+  },
+  "response_elements": {
+    "instanceTagAttribute": [
+      {
+        "includeAllTagsOfInstance": "",
+        "instanceTagKeySet": ""
+      }
+    ],
+    "requestId": ""
+  }
+}

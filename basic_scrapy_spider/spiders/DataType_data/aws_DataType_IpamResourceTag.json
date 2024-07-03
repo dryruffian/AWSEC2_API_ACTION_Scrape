@@ -1,0 +1,7 @@
+{
+    "action": "IpamResourceTag",
+    "content_parameters": {
+        "key": "",
+        "value": ""
+    }
+}

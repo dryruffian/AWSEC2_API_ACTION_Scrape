@@ -1,0 +1,7 @@
+{
+    "action": "PathStatementRequest",
+    "content_parameters": {
+        "PacketHeaderStatement": "PacketHeaderStatementRequest",
+        "ResourceStatement": "ResourceStatementRequest"
+    }
+}

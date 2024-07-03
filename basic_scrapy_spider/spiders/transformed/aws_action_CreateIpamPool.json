@@ -1,0 +1,92 @@
+{
+  "action": "CreateIpamPool",
+  "request_parameters": {
+    "AddressFamily": "",
+    "AllocationDefaultNetmaskLength": "",
+    "AllocationMaxNetmaskLength": "",
+    "AllocationMinNetmaskLength": "",
+    "AllocationResourceTag.N": [
+      {
+        "Key": "",
+        "Value": ""
+      }
+    ],
+    "AutoImport": "",
+    "AwsService": "",
+    "ClientToken": "",
+    "Description": "",
+    "DryRun": "",
+    "IpamScopeId": "",
+    "Locale": "",
+    "PublicIpSource": "",
+    "PubliclyAdvertisable": "",
+    "SourceIpamPoolId": "",
+    "SourceResource": [
+      {
+        "ResourceId": "",
+        "ResourceOwner": "",
+        "ResourceRegion": "",
+        "ResourceType": ""
+      }
+    ],
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "response_elements": {
+    "ipamPool": [
+      {
+        "addressFamily": "",
+        "allocationDefaultNetmaskLength": "",
+        "allocationMaxNetmaskLength": "",
+        "allocationMinNetmaskLength": "",
+        "allocationResourceTagSet": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "autoImport": "",
+        "awsService": "",
+        "description": "",
+        "ipamArn": "",
+        "ipamPoolArn": "",
+        "ipamPoolId": "",
+        "ipamRegion": "",
+        "ipamScopeArn": "",
+        "ipamScopeType": "",
+        "locale": "",
+        "ownerId": "",
+        "poolDepth": "",
+        "publicIpSource": "",
+        "publiclyAdvertisable": "",
+        "sourceIpamPoolId": "",
+        "sourceResource": [
+          {
+            "resourceId": "",
+            "resourceOwner": "",
+            "resourceRegion": "",
+            "resourceType": ""
+          }
+        ],
+        "state": "",
+        "stateMessage": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "requestId": ""
+  }
+}

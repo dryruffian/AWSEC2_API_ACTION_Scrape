@@ -1,0 +1,15 @@
+{
+    "action": "VerifiedAccessGroup",
+    "content_parameters": {
+        "creationTime": "",
+        "deletionTime": "",
+        "description": "",
+        "lastUpdatedTime": "",
+        "owner": "",
+        "sseSpecification": "VerifiedAccessSseSpecificationResponse",
+        "tagSet": "Tag",
+        "verifiedAccessGroupArn": "",
+        "verifiedAccessGroupId": "",
+        "verifiedAccessInstanceId": ""
+    }
+}

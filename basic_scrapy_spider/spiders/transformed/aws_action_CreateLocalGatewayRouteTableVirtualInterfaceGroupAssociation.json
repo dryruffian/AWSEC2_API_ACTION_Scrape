@@ -1,0 +1,39 @@
+{
+  "action": "CreateLocalGatewayRouteTableVirtualInterfaceGroupAssociation",
+  "request_parameters": {
+    "DryRun": "",
+    "LocalGatewayRouteTableId": "",
+    "LocalGatewayVirtualInterfaceGroupId": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "response_elements": {
+    "localGatewayRouteTableVirtualInterfaceGroupAssociation": [
+      {
+        "localGatewayId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "localGatewayRouteTableVirtualInterfaceGroupAssociationId": "",
+        "localGatewayVirtualInterfaceGroupId": "",
+        "ownerId": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "requestId": ""
+  }
+}

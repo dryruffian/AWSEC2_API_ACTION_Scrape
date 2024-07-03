@@ -1,0 +1,11 @@
+{
+    "action": "AddressTransfer",
+    "content_parameters": {
+        "addressTransferStatus": "",
+        "allocationId": "",
+        "publicIp": "",
+        "transferAccountId": "",
+        "transferOfferAcceptedTimestamp": "",
+        "transferOfferExpirationTimestamp": ""
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "action": "CreateSubnetCidrReservation",
+    "request_parameters": {
+        "Cidr": "",
+        "Description": "",
+        "DryRun": "",
+        "ReservationType": "",
+        "SubnetId": "",
+        "TagSpecification.N": {
+            "ResourceType": "",
+            "Tags": {
+                "Key": "",
+                "Value": ""
+            }
+        }
+    },
+    "response_elements": {
+        "requestId": "",
+        "subnetCidrReservation": {
+            "cidr": "",
+            "description": "",
+            "ownerId": "",
+            "reservationType": "",
+            "subnetCidrReservationId": "",
+            "subnetId": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            }
+        }
+    }
+}

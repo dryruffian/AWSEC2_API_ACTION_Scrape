@@ -1,0 +1,26 @@
+{
+  "action": "ReplaceRoute",
+  "request_parameters": {
+    "CarrierGatewayId": "",
+    "CoreNetworkArn": "",
+    "DestinationCidrBlock": "",
+    "DestinationIpv6CidrBlock": "",
+    "DestinationPrefixListId": "",
+    "DryRun": "",
+    "EgressOnlyInternetGatewayId": "",
+    "GatewayId": "",
+    "InstanceId": "",
+    "LocalGatewayId": "",
+    "LocalTarget": "",
+    "NatGatewayId": "",
+    "NetworkInterfaceId": "",
+    "RouteTableId": "",
+    "TransitGatewayId": "",
+    "VpcEndpointId": "",
+    "VpcPeeringConnectionId": ""
+  },
+  "response_elements": {
+    "requestId": "",
+    "return": ""
+  }
+}

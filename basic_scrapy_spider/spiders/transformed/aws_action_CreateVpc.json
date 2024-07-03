@@ -1,0 +1,68 @@
+{
+  "action": "CreateVpc",
+  "request_parameters": {
+    "AmazonProvidedIpv6CidrBlock": "",
+    "CidrBlock": "",
+    "DryRun": "",
+    "InstanceTenancy": "",
+    "Ipv4IpamPoolId": "",
+    "Ipv4NetmaskLength": "",
+    "Ipv6CidrBlock": "",
+    "Ipv6CidrBlockNetworkBorderGroup": "",
+    "Ipv6IpamPoolId": "",
+    "Ipv6NetmaskLength": "",
+    "Ipv6Pool": "",
+    "TagSpecification.N": [
+      {
+        "ResourceType": "",
+        "Tags": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ]
+  },
+  "response_elements": {
+    "requestId": "",
+    "vpc": [
+      {
+        "cidrBlock": "",
+        "cidrBlockAssociationSet": [
+          {
+            "associationId": "",
+            "cidrBlock": "",
+            "cidrBlockState": [
+              {
+                "state": "",
+                "statusMessage": ""
+              }
+            ]
+          }
+        ],
+        "dhcpOptionsId": "",
+        "instanceTenancy": "",
+        "ipv6CidrBlockAssociationSet": [
+          {
+            "associationId": "",
+            "ipv6CidrBlock": "",
+            "ipv6CidrBlockState": "VpcCidrBlockState",
+            "ipv6Pool": "",
+            "networkBorderGroup": ""
+          }
+        ],
+        "isDefault": "",
+        "ownerId": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ],
+        "vpcId": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "action": "TransitGatewayPeeringAttachment",
+    "content_parameters": {
+        "accepterTgwInfo": "PeeringTgwInfo",
+        "accepterTransitGatewayAttachmentId": "",
+        "creationTime": "",
+        "options": "TransitGatewayPeeringAttachmentOptions",
+        "requesterTgwInfo": "PeeringTgwInfo",
+        "state": "",
+        "status": "PeeringAttachmentStatus",
+        "tagSet": "Tag",
+        "transitGatewayAttachmentId": ""
+    }
+}

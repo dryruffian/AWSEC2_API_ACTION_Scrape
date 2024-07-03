@@ -1,0 +1,12 @@
+{
+    "action": "PacketHeaderStatement",
+    "content_parameters": {
+        "destinationAddressSet": "",
+        "destinationPortSet": "",
+        "destinationPrefixListSet": "",
+        "protocolSet": "",
+        "sourceAddressSet": "",
+        "sourcePortSet": "",
+        "sourcePrefixListSet": ""
+    }
+}

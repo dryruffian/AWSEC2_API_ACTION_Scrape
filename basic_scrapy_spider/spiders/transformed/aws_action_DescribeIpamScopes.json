@@ -1,0 +1,39 @@
+{
+  "action": "DescribeIpamScopes",
+  "request_parameters": {
+    "DryRun": "",
+    "Filter.N": [
+      {
+        "Name": "",
+        "Values": ""
+      }
+    ],
+    "IpamScopeId.N": "",
+    "MaxResults": "",
+    "NextToken": ""
+  },
+  "response_elements": {
+    "ipamScopeSet": [
+      {
+        "description": "",
+        "ipamArn": "",
+        "ipamRegion": "",
+        "ipamScopeArn": "",
+        "ipamScopeId": "",
+        "ipamScopeType": "",
+        "isDefault": "",
+        "ownerId": "",
+        "poolCount": "",
+        "state": "",
+        "tagSet": [
+          {
+            "Key": "",
+            "Value": ""
+          }
+        ]
+      }
+    ],
+    "nextToken": "",
+    "requestId": ""
+  }
+}

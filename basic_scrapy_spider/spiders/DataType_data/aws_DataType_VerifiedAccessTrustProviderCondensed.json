@@ -1,0 +1,10 @@
+{
+    "action": "VerifiedAccessTrustProviderCondensed",
+    "content_parameters": {
+        "description": "",
+        "deviceTrustProviderType": "",
+        "trustProviderType": "",
+        "userTrustProviderType": "",
+        "verifiedAccessTrustProviderId": ""
+    }
+}

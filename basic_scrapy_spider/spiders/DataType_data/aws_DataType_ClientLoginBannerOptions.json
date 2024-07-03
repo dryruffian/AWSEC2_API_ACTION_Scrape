@@ -1,0 +1,7 @@
+{
+    "action": "ClientLoginBannerOptions",
+    "content_parameters": {
+        "BannerText": "",
+        "Enabled": ""
+    }
+}

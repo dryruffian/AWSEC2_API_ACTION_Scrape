@@ -1,0 +1,11 @@
+{
+  "action": "DeleteNatGateway",
+  "request_parameters": {
+    "DryRun": "",
+    "NatGatewayId": ""
+  },
+  "response_elements": {
+    "natGatewayId": "",
+    "requestId": ""
+  }
+}

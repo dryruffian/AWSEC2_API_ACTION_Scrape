@@ -1,0 +1,27 @@
+{
+    "action": "DescribeCarrierGateways",
+    "request_parameters": {
+        "CarrierGatewayId.N": "",
+        "DryRun": "",
+        "Filter.N": {
+            "Name": "",
+            "Values": ""
+        },
+        "MaxResults": "",
+        "NextToken": ""
+    },
+    "response_elements": {
+        "carrierGatewaySet": {
+            "carrierGatewayId": "",
+            "ownerId": "",
+            "state": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "vpcId": ""
+        },
+        "nextToken": "",
+        "requestId": ""
+    }
+}

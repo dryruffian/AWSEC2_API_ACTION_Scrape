@@ -1,0 +1,9 @@
+{
+    "action": "IpamPoolSourceResource",
+    "content_parameters": {
+        "resourceId": "",
+        "resourceOwner": "",
+        "resourceRegion": "",
+        "resourceType": ""
+    }
+}
