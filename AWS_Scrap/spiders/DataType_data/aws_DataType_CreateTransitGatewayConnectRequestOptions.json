@@ -1,0 +1,6 @@
+{
+    "action": "CreateTransitGatewayConnectRequestOptions",
+    "content_parameters": {
+        "Protocol": ""
+    }
+}

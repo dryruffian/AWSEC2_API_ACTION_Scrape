@@ -1,0 +1,9 @@
+{
+    "action": "CreateTransitGatewayVpcAttachmentRequestOptions",
+    "content_parameters": {
+        "ApplianceModeSupport": "",
+        "DnsSupport": "",
+        "Ipv6Support": "",
+        "SecurityGroupReferencingSupport": ""
+    }
+}

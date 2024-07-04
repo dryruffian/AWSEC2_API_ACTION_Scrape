@@ -1,0 +1,14 @@
+{
+    "action": "NetworkInterfaceAttachment",
+    "content_parameters": {
+        "attachmentId": "",
+        "attachTime": "",
+        "deleteOnTermination": "",
+        "deviceIndex": "",
+        "enaSrdSpecification": "AttachmentEnaSrdSpecification",
+        "instanceId": "",
+        "instanceOwnerId": "",
+        "networkCardIndex": "",
+        "status": ""
+    }
+}

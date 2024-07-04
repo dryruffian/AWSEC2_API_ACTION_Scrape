@@ -1,0 +1,10 @@
+{
+    "action": "IpamPoolCidr",
+    "content_parameters": {
+        "cidr": "",
+        "failureReason": "IpamPoolCidrFailureReason",
+        "ipamPoolCidrId": "",
+        "netmaskLength": "",
+        "state": ""
+    }
+}

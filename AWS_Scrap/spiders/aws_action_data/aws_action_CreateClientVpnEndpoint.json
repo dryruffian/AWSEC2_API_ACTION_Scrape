@@ -1,0 +1,60 @@
+{
+    "action": "CreateClientVpnEndpoint",
+    "request_parameters": {
+        "Authentication.N": {
+            "ActiveDirectory": {
+                "DirectoryId": ""
+            },
+            "FederatedAuthentication": {
+                "SAMLProviderArn": "",
+                "SelfServiceSAMLProviderArn": ""
+            },
+            "MutualAuthentication": {
+                "ClientRootCertificateChainArn": ""
+            },
+            "Type": ""
+        },
+        "ClientCidrBlock": "",
+        "ClientConnectOptions": {
+            "Enabled": "",
+            "LambdaFunctionArn": ""
+        },
+        "ClientLoginBannerOptions": {
+            "BannerText": "",
+            "Enabled": ""
+        },
+        "ClientToken": "",
+        "ConnectionLogOptions": {
+            "CloudwatchLogGroup": "",
+            "CloudwatchLogStream": "",
+            "Enabled": ""
+        },
+        "Description": "",
+        "DnsServers.N": "",
+        "DryRun": "",
+        "SecurityGroupId.N": "",
+        "SelfServicePortal": "",
+        "ServerCertificateArn": "",
+        "SessionTimeoutHours": "",
+        "SplitTunnel": "",
+        "TagSpecification.N": {
+            "ResourceType": "",
+            "Tags": {
+                "Key": "",
+                "Value": ""
+            }
+        },
+        "TransportProtocol": "",
+        "VpcId": "",
+        "VpnPort": ""
+    },
+    "response_elements": {
+        "clientVpnEndpointId": "",
+        "dnsName": "",
+        "requestId": "",
+        "status": {
+            "code": "",
+            "message": ""
+        }
+    }
+}

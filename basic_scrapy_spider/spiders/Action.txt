@@ -23,4 +23,3 @@ CreateRouteTable
 CreateSnapshot
 CreateSnapshots
 CreateSubnet
-CreateSubnetCidrReservation

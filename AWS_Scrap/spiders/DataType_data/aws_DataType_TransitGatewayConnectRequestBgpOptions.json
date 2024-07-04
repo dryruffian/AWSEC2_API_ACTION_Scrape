@@ -1,0 +1,6 @@
+{
+    "action": "TransitGatewayConnectRequestBgpOptions",
+    "content_parameters": {
+        "PeerAsn": ""
+    }
+}

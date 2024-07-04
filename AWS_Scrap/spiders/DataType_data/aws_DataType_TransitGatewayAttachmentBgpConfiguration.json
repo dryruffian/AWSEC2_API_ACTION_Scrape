@@ -1,0 +1,10 @@
+{
+    "action": "TransitGatewayAttachmentBgpConfiguration",
+    "content_parameters": {
+        "bgpStatus": "",
+        "peerAddress": "",
+        "peerAsn": "",
+        "transitGatewayAddress": "",
+        "transitGatewayAsn": ""
+    }
+}

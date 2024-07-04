@@ -1,0 +1,6 @@
+{
+    "action": "PropagatingVgw",
+    "content_parameters": {
+        "gatewayId": ""
+    }
+}

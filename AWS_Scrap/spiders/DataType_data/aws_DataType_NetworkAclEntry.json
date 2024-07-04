@@ -1,0 +1,13 @@
+{
+    "action": "NetworkAclEntry",
+    "content_parameters": {
+        "cidrBlock": "",
+        "egress": "",
+        "icmpTypeCode": "IcmpTypeCode",
+        "ipv6CidrBlock": "",
+        "portRange": "PortRange",
+        "protocol": "",
+        "ruleAction": "",
+        "ruleNumber": ""
+    }
+}

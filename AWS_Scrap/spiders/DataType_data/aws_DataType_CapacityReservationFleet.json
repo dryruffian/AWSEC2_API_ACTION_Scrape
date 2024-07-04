@@ -1,0 +1,17 @@
+{
+    "action": "CapacityReservationFleet",
+    "content_parameters": {
+        "allocationStrategy": "",
+        "capacityReservationFleetArn": "",
+        "capacityReservationFleetId": "",
+        "createTime": "",
+        "endDate": "",
+        "instanceMatchCriteria": "",
+        "instanceTypeSpecificationSet": "FleetCapacityReservation",
+        "state": "",
+        "tagSet": "Tag",
+        "tenancy": "",
+        "totalFulfilledCapacity": "",
+        "totalTargetCapacity": ""
+    }
+}

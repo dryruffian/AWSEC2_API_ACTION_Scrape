@@ -1,0 +1,12 @@
+{
+    "action": "NetworkInterfaceAssociation",
+    "content_parameters": {
+        "allocationId": "",
+        "associationId": "",
+        "carrierIp": "",
+        "customerOwnedIp": "",
+        "ipOwnerId": "",
+        "publicDnsName": "",
+        "publicIp": ""
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "action": "AddPrefixListEntry",
+    "content_parameters": {
+        "Cidr": "",
+        "Description": ""
+    }
+}

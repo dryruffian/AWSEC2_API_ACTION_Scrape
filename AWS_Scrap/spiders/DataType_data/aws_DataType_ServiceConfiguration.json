@@ -1,0 +1,20 @@
+{
+    "action": "ServiceConfiguration",
+    "content_parameters": {
+        "acceptanceRequired": "",
+        "availabilityZoneSet": "",
+        "baseEndpointDnsNameSet": "",
+        "gatewayLoadBalancerArnSet": "",
+        "managesVpcEndpoints": "",
+        "networkLoadBalancerArnSet": "",
+        "payerResponsibility": "",
+        "privateDnsName": "",
+        "privateDnsNameConfiguration": "PrivateDnsNameConfiguration",
+        "serviceId": "",
+        "serviceName": "",
+        "serviceState": "",
+        "serviceType": "ServiceTypeDetail",
+        "supportedIpAddressTypeSet": "",
+        "tagSet": "Tag"
+    }
+}

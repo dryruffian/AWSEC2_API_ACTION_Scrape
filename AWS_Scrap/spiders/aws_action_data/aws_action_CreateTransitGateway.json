@@ -1,0 +1,53 @@
+{
+    "action": "CreateTransitGateway",
+    "request_parameters": {
+        "Description": "",
+        "DryRun": "",
+        "Options": {
+            "AmazonSideAsn": "",
+            "AutoAcceptSharedAttachments": "",
+            "DefaultRouteTableAssociation": "",
+            "DefaultRouteTablePropagation": "",
+            "DnsSupport": "",
+            "MulticastSupport": "",
+            "SecurityGroupReferencingSupport": "",
+            "TransitGatewayCidrBlocks": "",
+            "VpnEcmpSupport": ""
+        },
+        "TagSpecification.N": {
+            "ResourceType": "",
+            "Tags": {
+                "Key": "",
+                "Value": ""
+            }
+        }
+    },
+    "response_elements": {
+        "requestId": "",
+        "transitGateway": {
+            "creationTime": "",
+            "description": "",
+            "options": {
+                "amazonSideAsn": "",
+                "associationDefaultRouteTableId": "",
+                "autoAcceptSharedAttachments": "",
+                "defaultRouteTableAssociation": "",
+                "defaultRouteTablePropagation": "",
+                "dnsSupport": "",
+                "multicastSupport": "",
+                "propagationDefaultRouteTableId": "",
+                "securityGroupReferencingSupport": "",
+                "transitGatewayCidrBlocks": "",
+                "vpnEcmpSupport": ""
+            },
+            "ownerId": "",
+            "state": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "transitGatewayArn": "",
+            "transitGatewayId": ""
+        }
+    }
+}

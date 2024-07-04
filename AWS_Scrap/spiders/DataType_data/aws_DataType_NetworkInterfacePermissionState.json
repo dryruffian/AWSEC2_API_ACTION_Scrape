@@ -1,0 +1,7 @@
+{
+    "action": "NetworkInterfacePermissionState",
+    "content_parameters": {
+        "state": "",
+        "statusMessage": ""
+    }
+}

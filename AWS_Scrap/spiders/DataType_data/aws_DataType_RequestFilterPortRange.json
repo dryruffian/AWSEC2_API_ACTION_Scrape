@@ -1,0 +1,7 @@
+{
+    "action": "RequestFilterPortRange",
+    "content_parameters": {
+        "FromPort": "",
+        "ToPort": ""
+    }
+}

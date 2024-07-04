@@ -1,0 +1,15 @@
+{
+    "action": "CapacityBlockOffering",
+    "content_parameters": {
+        "availabilityZone": "",
+        "capacityBlockDurationHours": "",
+        "capacityBlockOfferingId": "",
+        "currencyCode": "",
+        "endDate": "",
+        "instanceCount": "",
+        "instanceType": "",
+        "startDate": "",
+        "tenancy": "",
+        "upfrontFee": ""
+    }
+}

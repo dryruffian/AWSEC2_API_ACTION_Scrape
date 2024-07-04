@@ -1,0 +1,27 @@
+{
+    "action": "CreateTransitGatewayPolicyTable",
+    "request_parameters": {
+        "DryRun": "",
+        "TagSpecifications.N": {
+            "ResourceType": "",
+            "Tags": {
+                "Key": "",
+                "Value": ""
+            }
+        },
+        "TransitGatewayId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "transitGatewayPolicyTable": {
+            "creationTime": "",
+            "state": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "transitGatewayId": "",
+            "transitGatewayPolicyTableId": ""
+        }
+    }
+}

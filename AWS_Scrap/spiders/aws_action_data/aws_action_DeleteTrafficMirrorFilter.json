@@ -1,0 +1,11 @@
+{
+    "action": "DeleteTrafficMirrorFilter",
+    "request_parameters": {
+        "DryRun": "",
+        "TrafficMirrorFilterId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "trafficMirrorFilterId": ""
+    }
+}

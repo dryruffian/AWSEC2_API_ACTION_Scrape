@@ -1,0 +1,50 @@
+{
+    "action": "CreateNetworkAcl",
+    "request_parameters": {
+        "ClientToken": "",
+        "DryRun": "",
+        "TagSpecification.N": {
+            "ResourceType": "",
+            "Tags": {
+                "Key": "",
+                "Value": ""
+            }
+        },
+        "VpcId": ""
+    },
+    "response_elements": {
+        "clientToken": "",
+        "networkAcl": {
+            "associationSet": {
+                "networkAclAssociationId": "",
+                "networkAclId": "",
+                "subnetId": ""
+            },
+            "default": "",
+            "entrySet": {
+                "cidrBlock": "",
+                "egress": "",
+                "icmpTypeCode": {
+                    "Code": "",
+                    "Type": ""
+                },
+                "ipv6CidrBlock": "",
+                "portRange": {
+                    "From": "",
+                    "To": ""
+                },
+                "protocol": "",
+                "ruleAction": "",
+                "ruleNumber": ""
+            },
+            "networkAclId": "",
+            "ownerId": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "vpcId": ""
+        },
+        "requestId": ""
+    }
+}

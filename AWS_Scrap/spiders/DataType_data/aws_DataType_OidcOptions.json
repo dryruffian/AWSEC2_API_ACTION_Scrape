@@ -1,0 +1,12 @@
+{
+    "action": "OidcOptions",
+    "content_parameters": {
+        "authorizationEndpoint": "",
+        "clientId": "",
+        "clientSecret": "",
+        "issuer": "",
+        "scope": "",
+        "tokenEndpoint": "",
+        "userInfoEndpoint": ""
+    }
+}

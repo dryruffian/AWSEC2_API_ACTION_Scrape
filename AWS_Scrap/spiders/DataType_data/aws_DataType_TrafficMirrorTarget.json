@@ -1,0 +1,13 @@
+{
+    "action": "TrafficMirrorTarget",
+    "content_parameters": {
+        "description": "",
+        "gatewayLoadBalancerEndpointId": "",
+        "networkInterfaceId": "",
+        "networkLoadBalancerArn": "",
+        "ownerId": "",
+        "tagSet": "Tag",
+        "trafficMirrorTargetId": "",
+        "type": ""
+    }
+}

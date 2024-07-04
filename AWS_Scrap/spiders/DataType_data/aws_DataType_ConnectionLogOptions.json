@@ -1,0 +1,8 @@
+{
+    "action": "ConnectionLogOptions",
+    "content_parameters": {
+        "CloudwatchLogGroup": "",
+        "CloudwatchLogStream": "",
+        "Enabled": ""
+    }
+}

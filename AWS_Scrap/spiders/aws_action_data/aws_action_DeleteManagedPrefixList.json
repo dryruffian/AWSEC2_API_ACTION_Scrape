@@ -1,0 +1,25 @@
+{
+    "action": "DeleteManagedPrefixList",
+    "request_parameters": {
+        "DryRun": "",
+        "PrefixListId": ""
+    },
+    "response_elements": {
+        "prefixList": {
+            "addressFamily": "",
+            "maxEntries": "",
+            "ownerId": "",
+            "prefixListArn": "",
+            "prefixListId": "",
+            "prefixListName": "",
+            "state": "",
+            "stateMessage": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "version": ""
+        },
+        "requestId": ""
+    }
+}

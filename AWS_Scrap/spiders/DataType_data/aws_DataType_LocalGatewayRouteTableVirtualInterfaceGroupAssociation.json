@@ -1,0 +1,13 @@
+{
+    "action": "LocalGatewayRouteTableVirtualInterfaceGroupAssociation",
+    "content_parameters": {
+        "localGatewayId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "localGatewayRouteTableVirtualInterfaceGroupAssociationId": "",
+        "localGatewayVirtualInterfaceGroupId": "",
+        "ownerId": "",
+        "state": "",
+        "tagSet": "Tag"
+    }
+}

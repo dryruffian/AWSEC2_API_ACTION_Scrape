@@ -1,0 +1,9 @@
+{
+    "action": "PathRequestFilter",
+    "content_parameters": {
+        "DestinationAddress": "",
+        "DestinationPortRange": "RequestFilterPortRange",
+        "SourceAddress": "",
+        "SourcePortRange": "RequestFilterPortRange"
+    }
+}

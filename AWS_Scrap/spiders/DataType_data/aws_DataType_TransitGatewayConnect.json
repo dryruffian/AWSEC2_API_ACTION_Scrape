@@ -1,0 +1,12 @@
+{
+    "action": "TransitGatewayConnect",
+    "content_parameters": {
+        "creationTime": "",
+        "options": "TransitGatewayConnectOptions",
+        "state": "",
+        "tagSet": "Tag",
+        "transitGatewayAttachmentId": "",
+        "transitGatewayId": "",
+        "transportTransitGatewayAttachmentId": ""
+    }
+}

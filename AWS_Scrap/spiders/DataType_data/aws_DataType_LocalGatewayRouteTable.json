@@ -1,0 +1,14 @@
+{
+    "action": "LocalGatewayRouteTable",
+    "content_parameters": {
+        "localGatewayId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "mode": "",
+        "outpostArn": "",
+        "ownerId": "",
+        "state": "",
+        "stateReason": "StateReason",
+        "tagSet": "Tag"
+    }
+}

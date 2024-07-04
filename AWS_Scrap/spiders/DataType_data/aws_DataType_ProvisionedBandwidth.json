@@ -1,0 +1,10 @@
+{
+    "action": "ProvisionedBandwidth",
+    "content_parameters": {
+        "provisioned": "",
+        "provisionTime": "",
+        "requested": "",
+        "requestTime": "",
+        "status": ""
+    }
+}

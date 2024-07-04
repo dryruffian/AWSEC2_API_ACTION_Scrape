@@ -1,0 +1,9 @@
+{
+    "action": "PathFilter",
+    "content_parameters": {
+        "destinationAddress": "",
+        "destinationPortRange": "FilterPortRange",
+        "sourceAddress": "",
+        "sourcePortRange": "FilterPortRange"
+    }
+}

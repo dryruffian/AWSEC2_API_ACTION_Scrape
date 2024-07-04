@@ -1,0 +1,14 @@
+{
+    "action": "TransitGatewayRequestOptions",
+    "content_parameters": {
+        "AmazonSideAsn": "",
+        "AutoAcceptSharedAttachments": "",
+        "DefaultRouteTableAssociation": "",
+        "DefaultRouteTablePropagation": "",
+        "DnsSupport": "",
+        "MulticastSupport": "",
+        "SecurityGroupReferencingSupport": "",
+        "TransitGatewayCidrBlocks": "",
+        "VpnEcmpSupport": ""
+    }
+}

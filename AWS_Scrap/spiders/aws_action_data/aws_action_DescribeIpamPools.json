@@ -1,0 +1,54 @@
+{
+    "action": "DescribeIpamPools",
+    "request_parameters": {
+        "DryRun": "",
+        "Filter.N": {
+            "Name": "",
+            "Values": ""
+        },
+        "IpamPoolId.N": "",
+        "MaxResults": "",
+        "NextToken": ""
+    },
+    "response_elements": {
+        "ipamPoolSet": {
+            "addressFamily": "",
+            "allocationDefaultNetmaskLength": "",
+            "allocationMaxNetmaskLength": "",
+            "allocationMinNetmaskLength": "",
+            "allocationResourceTagSet": {
+                "key": "",
+                "value": ""
+            },
+            "autoImport": "",
+            "awsService": "",
+            "description": "",
+            "ipamArn": "",
+            "ipamPoolArn": "",
+            "ipamPoolId": "",
+            "ipamRegion": "",
+            "ipamScopeArn": "",
+            "ipamScopeType": "",
+            "locale": "",
+            "ownerId": "",
+            "poolDepth": "",
+            "publicIpSource": "",
+            "publiclyAdvertisable": "",
+            "sourceIpamPoolId": "",
+            "sourceResource": {
+                "resourceId": "",
+                "resourceOwner": "",
+                "resourceRegion": "",
+                "resourceType": ""
+            },
+            "state": "",
+            "stateMessage": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            }
+        },
+        "nextToken": "",
+        "requestId": ""
+    }
+}

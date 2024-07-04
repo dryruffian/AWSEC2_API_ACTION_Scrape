@@ -1,0 +1,8 @@
+{
+    "action": "NetworkInsightsAccessScopeContent",
+    "content_parameters": {
+        "excludePathSet": "AccessScopePath",
+        "matchPathSet": "AccessScopePath",
+        "networkInsightsAccessScopeId": ""
+    }
+}

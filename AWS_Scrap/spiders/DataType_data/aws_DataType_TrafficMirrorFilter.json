@@ -1,0 +1,11 @@
+{
+    "action": "TrafficMirrorFilter",
+    "content_parameters": {
+        "description": "",
+        "egressFilterRuleSet": "TrafficMirrorFilterRule",
+        "ingressFilterRuleSet": "TrafficMirrorFilterRule",
+        "networkServiceSet": "",
+        "tagSet": "Tag",
+        "trafficMirrorFilterId": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "action": "VpcEndpoint",
+    "content_parameters": {
+        "creationTimestamp": "",
+        "dnsEntrySet": "DnsEntry",
+        "dnsOptions": "DnsOptions",
+        "groupSet": "SecurityGroupIdentifier",
+        "ipAddressType": "",
+        "lastError": "LastError",
+        "networkInterfaceIdSet": "",
+        "ownerId": "",
+        "policyDocument": "",
+        "privateDnsEnabled": "",
+        "requesterManaged": "",
+        "routeTableIdSet": "",
+        "serviceName": "",
+        "state": "",
+        "subnetIdSet": "",
+        "tagSet": "Tag",
+        "vpcEndpointId": "",
+        "vpcEndpointType": "",
+        "vpcId": ""
+    }
+}

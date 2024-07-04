@@ -1,0 +1,34 @@
+{
+    "action": "DeleteIpam",
+    "request_parameters": {
+        "Cascade": "",
+        "DryRun": "",
+        "IpamId": ""
+    },
+    "response_elements": {
+        "ipam": {
+            "defaultResourceDiscoveryAssociationId": "",
+            "defaultResourceDiscoveryId": "",
+            "description": "",
+            "ipamArn": "",
+            "ipamId": "",
+            "ipamRegion": "",
+            "operatingRegionSet": {
+                "regionName": ""
+            },
+            "ownerId": "",
+            "privateDefaultScopeId": "",
+            "publicDefaultScopeId": "",
+            "resourceDiscoveryAssociationCount": "",
+            "scopeCount": "",
+            "state": "",
+            "stateMessage": "",
+            "tagSet": {
+                "Key": "",
+                "Value": ""
+            },
+            "tier": ""
+        },
+        "requestId": ""
+    }
+}

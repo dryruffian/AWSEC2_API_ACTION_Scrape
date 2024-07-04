@@ -1,0 +1,9 @@
+{
+    "action": "VerifiedAccessEndpointLoadBalancerOptions",
+    "content_parameters": {
+        "loadBalancerArn": "",
+        "port": "",
+        "protocol": "",
+        "subnetIdSet": ""
+    }
+}

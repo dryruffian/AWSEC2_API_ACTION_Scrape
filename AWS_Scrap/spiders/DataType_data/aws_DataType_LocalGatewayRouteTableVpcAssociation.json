@@ -1,0 +1,13 @@
+{
+    "action": "LocalGatewayRouteTableVpcAssociation",
+    "content_parameters": {
+        "localGatewayId": "",
+        "localGatewayRouteTableArn": "",
+        "localGatewayRouteTableId": "",
+        "localGatewayRouteTableVpcAssociationId": "",
+        "ownerId": "",
+        "state": "",
+        "tagSet": "Tag",
+        "vpcId": ""
+    }
+}

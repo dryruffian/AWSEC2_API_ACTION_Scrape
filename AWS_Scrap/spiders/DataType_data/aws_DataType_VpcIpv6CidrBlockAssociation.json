@@ -1,0 +1,10 @@
+{
+    "action": "VpcIpv6CidrBlockAssociation",
+    "content_parameters": {
+        "associationId": "",
+        "ipv6CidrBlock": "",
+        "ipv6CidrBlockState": "VpcCidrBlockState",
+        "ipv6Pool": "",
+        "networkBorderGroup": ""
+    }
+}

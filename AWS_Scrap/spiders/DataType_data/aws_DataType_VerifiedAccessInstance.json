@@ -1,0 +1,12 @@
+{
+    "action": "VerifiedAccessInstance",
+    "content_parameters": {
+        "creationTime": "",
+        "description": "",
+        "fipsEnabled": "",
+        "lastUpdatedTime": "",
+        "tagSet": "Tag",
+        "verifiedAccessInstanceId": "",
+        "verifiedAccessTrustProviderSet": "VerifiedAccessTrustProviderCondensed"
+    }
+}

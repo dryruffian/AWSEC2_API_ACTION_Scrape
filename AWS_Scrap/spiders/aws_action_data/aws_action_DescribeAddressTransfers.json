@@ -1,0 +1,21 @@
+{
+    "action": "DescribeAddressTransfers",
+    "request_parameters": {
+        "AllocationId.N": "",
+        "DryRun": "",
+        "MaxResults": "",
+        "NextToken": ""
+    },
+    "response_elements": {
+        "addressTransferSet": {
+            "addressTransferStatus": "",
+            "allocationId": "",
+            "publicIp": "",
+            "transferAccountId": "",
+            "transferOfferAcceptedTimestamp": "",
+            "transferOfferExpirationTimestamp": ""
+        },
+        "nextToken": "",
+        "requestId": ""
+    }
+}

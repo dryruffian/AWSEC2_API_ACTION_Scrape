@@ -1,0 +1,10 @@
+{
+    "action": "NetworkInsightsAccessScope",
+    "content_parameters": {
+        "createdDate": "",
+        "networkInsightsAccessScopeArn": "",
+        "networkInsightsAccessScopeId": "",
+        "tagSet": "Tag",
+        "updatedDate": ""
+    }
+}

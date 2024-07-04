@@ -1,0 +1,16 @@
+{
+    "action": "TransitGatewayRouteTableAnnouncement",
+    "content_parameters": {
+        "announcementDirection": "",
+        "coreNetworkId": "",
+        "creationTime": "",
+        "peerCoreNetworkId": "",
+        "peeringAttachmentId": "",
+        "peerTransitGatewayId": "",
+        "state": "",
+        "tagSet": "Tag",
+        "transitGatewayId": "",
+        "transitGatewayRouteTableAnnouncementId": "",
+        "transitGatewayRouteTableId": ""
+    }
+}

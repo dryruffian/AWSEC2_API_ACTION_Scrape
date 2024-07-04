@@ -1,0 +1,11 @@
+{
+    "action": "TransitGatewayPrefixListReference",
+    "content_parameters": {
+        "blackhole": "",
+        "prefixListId": "",
+        "prefixListOwnerId": "",
+        "state": "",
+        "transitGatewayAttachment": "TransitGatewayPrefixListAttachment",
+        "transitGatewayRouteTableId": ""
+    }
+}

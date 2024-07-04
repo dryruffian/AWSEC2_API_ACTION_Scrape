@@ -1,0 +1,11 @@
+{
+    "action": "TransitGatewayRoute",
+    "content_parameters": {
+        "destinationCidrBlock": "",
+        "prefixListId": "",
+        "state": "",
+        "transitGatewayAttachments": "TransitGatewayRouteAttachment",
+        "transitGatewayRouteTableAnnouncementId": "",
+        "type": ""
+    }
+}

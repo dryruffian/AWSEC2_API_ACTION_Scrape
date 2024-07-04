@@ -1,0 +1,14 @@
+{
+    "action": "IpamResourceDiscovery",
+    "content_parameters": {
+        "description": "",
+        "ipamResourceDiscoveryArn": "",
+        "ipamResourceDiscoveryId": "",
+        "ipamResourceDiscoveryRegion": "",
+        "isDefault": "",
+        "operatingRegionSet": "IpamOperatingRegion",
+        "ownerId": "",
+        "state": "",
+        "tagSet": "Tag"
+    }
+}

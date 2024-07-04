@@ -1,0 +1,7 @@
+{
+    "action": "FederatedAuthenticationRequest",
+    "content_parameters": {
+        "SAMLProviderArn": "",
+        "SelfServiceSAMLProviderArn": ""
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "action": "DeleteNetworkInsightsAnalysis",
+    "request_parameters": {
+        "DryRun": "",
+        "NetworkInsightsAnalysisId": ""
+    },
+    "response_elements": {
+        "networkInsightsAnalysisId": "",
+        "requestId": ""
+    }
+}

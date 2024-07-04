@@ -1,0 +1,7 @@
+{
+    "action": "RequestIpamResourceTag",
+    "content_parameters": {
+        "Key": "",
+        "Value": ""
+    }
+}

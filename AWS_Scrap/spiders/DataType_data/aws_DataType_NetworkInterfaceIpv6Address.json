@@ -1,0 +1,7 @@
+{
+    "action": "NetworkInterfaceIpv6Address",
+    "content_parameters": {
+        "ipv6Address": "",
+        "isPrimaryIpv6": ""
+    }
+}

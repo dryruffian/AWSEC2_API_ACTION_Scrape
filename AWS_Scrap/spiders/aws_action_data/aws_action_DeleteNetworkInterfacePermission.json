@@ -1,0 +1,12 @@
+{
+    "action": "DeleteNetworkInterfacePermission",
+    "request_parameters": {
+        "DryRun": "",
+        "Force": "",
+        "NetworkInterfacePermissionId": ""
+    },
+    "response_elements": {
+        "requestId": "",
+        "return": ""
+    }
+}

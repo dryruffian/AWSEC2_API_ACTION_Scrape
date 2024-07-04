@@ -1,0 +1,10 @@
+{
+    "action": "TransitGatewayPolicyTable",
+    "content_parameters": {
+        "creationTime": "",
+        "state": "",
+        "tagSet": "Tag",
+        "transitGatewayId": "",
+        "transitGatewayPolicyTableId": ""
+    }
+}

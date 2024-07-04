@@ -1,0 +1,20 @@
+{
+    "action": "Ec2InstanceConnectEndpoint",
+    "content_parameters": {
+        "availabilityZone": "",
+        "createdAt": "",
+        "dnsName": "",
+        "fipsDnsName": "",
+        "instanceConnectEndpointArn": "",
+        "instanceConnectEndpointId": "",
+        "networkInterfaceIdSet": "",
+        "ownerId": "",
+        "preserveClientIp": "",
+        "securityGroupIdSet": "",
+        "state": "",
+        "stateMessage": "",
+        "subnetId": "",
+        "tagSet": "Tag",
+        "vpcId": ""
+    }
+}
