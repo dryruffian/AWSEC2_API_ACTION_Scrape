@@ -1,7 +1,0 @@
-{
-    "action": "VpcCidrBlockState",
-    "content_parameters": {
-        "state": "",
-        "statusMessage": ""
-    }
-}

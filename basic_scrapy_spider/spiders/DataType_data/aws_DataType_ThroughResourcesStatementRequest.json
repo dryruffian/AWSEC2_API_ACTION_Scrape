@@ -1,6 +1,0 @@
-{
-    "action": "ThroughResourcesStatementRequest",
-    "content_parameters": {
-        "ResourceStatement": "ResourceStatementRequest"
-    }
-}

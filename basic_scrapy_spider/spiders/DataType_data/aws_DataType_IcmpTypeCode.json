@@ -1,7 +1,0 @@
-{
-    "action": "IcmpTypeCode",
-    "content_parameters": {
-        "Code": "",
-        "Type": ""
-    }
-}

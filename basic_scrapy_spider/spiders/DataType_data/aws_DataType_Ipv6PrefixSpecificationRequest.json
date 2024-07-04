@@ -1,6 +1,0 @@
-{
-    "action": "Ipv6PrefixSpecificationRequest",
-    "content_parameters": {
-        "Ipv6Prefix": ""
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "action": "ResourceStatementRequest",
-    "content_parameters": {
-        "Resources": "",
-        "ResourceTypes": ""
-    }
-}

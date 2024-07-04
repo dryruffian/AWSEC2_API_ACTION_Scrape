@@ -1,7 +1,0 @@
-{
-    "action": "PeeringAttachmentStatus",
-    "content_parameters": {
-        "code": "",
-        "message": ""
-    }
-}

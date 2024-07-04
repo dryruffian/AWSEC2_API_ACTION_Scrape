@@ -1,8 +1,0 @@
-{
-    "action": "NetworkAclAssociation",
-    "content_parameters": {
-        "networkAclAssociationId": "",
-        "networkAclId": "",
-        "subnetId": ""
-    }
-}

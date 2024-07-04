@@ -1,7 +1,0 @@
-{
-    "action": "DnsOptionsSpecification",
-    "content_parameters": {
-        "DnsRecordIpType": "",
-        "PrivateDnsOnlyForInboundResolverEndpoint": ""
-    }
-}

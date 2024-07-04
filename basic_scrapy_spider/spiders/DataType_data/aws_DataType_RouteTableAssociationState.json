@@ -1,7 +1,0 @@
-{
-    "action": "RouteTableAssociationState",
-    "content_parameters": {
-        "state": "",
-        "statusMessage": ""
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "action": "TagSpecification",
-    "content_parameters": {
-        "ResourceType": "",
-        "Tags": "Tag"
-    }
-}

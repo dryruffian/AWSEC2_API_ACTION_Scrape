@@ -1,6 +1,0 @@
-{
-    "action": "TransitGatewayPeeringAttachmentOptions",
-    "content_parameters": {
-        "dynamicRouting": ""
-    }
-}

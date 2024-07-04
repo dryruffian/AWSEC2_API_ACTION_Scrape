@@ -1,6 +1,0 @@
-{
-    "action": "IpamOperatingRegion",
-    "content_parameters": {
-        "regionName": ""
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "action": "InstanceIpv6Address",
-    "content_parameters": {
-        "Ipv6Address": "",
-        "IsPrimaryIpv6": ""
-    }
-}

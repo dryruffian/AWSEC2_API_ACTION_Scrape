@@ -1,6 +1,0 @@
-{
-    "action": "TransitGatewayConnectOptions",
-    "content_parameters": {
-        "protocol": ""
-    }
-}

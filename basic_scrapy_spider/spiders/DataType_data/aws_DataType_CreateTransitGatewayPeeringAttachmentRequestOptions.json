@@ -1,6 +1,0 @@
-{
-    "action": "CreateTransitGatewayPeeringAttachmentRequestOptions",
-    "content_parameters": {
-        "DynamicRouting": ""
-    }
-}

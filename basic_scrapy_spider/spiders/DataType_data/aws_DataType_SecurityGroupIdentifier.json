@@ -1,7 +1,0 @@
-{
-    "action": "SecurityGroupIdentifier",
-    "content_parameters": {
-        "groupId": "",
-        "groupName": ""
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "action": "ServiceTypeDetail",
-    "content_parameters": {
-        "serviceType": ""
-    }
-}

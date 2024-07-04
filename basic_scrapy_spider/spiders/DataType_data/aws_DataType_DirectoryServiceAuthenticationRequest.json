@@ -1,6 +1,0 @@
-{
-    "action": "DirectoryServiceAuthenticationRequest",
-    "content_parameters": {
-        "DirectoryId": ""
-    }
-}

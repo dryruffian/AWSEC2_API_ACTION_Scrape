@@ -1,9 +1,0 @@
-{
-    "action": "PeeringTgwInfo",
-    "content_parameters": {
-        "coreNetworkId": "",
-        "ownerId": "",
-        "region": "",
-        "transitGatewayId": ""
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "action": "ClientVpnAuthenticationRequest",
-    "content_parameters": {
-        "ActiveDirectory": "DirectoryServiceAuthenticationRequest",
-        "FederatedAuthentication": "FederatedAuthenticationRequest",
-        "MutualAuthentication": "CertificateAuthenticationRequest",
-        "Type": ""
-    }
-}

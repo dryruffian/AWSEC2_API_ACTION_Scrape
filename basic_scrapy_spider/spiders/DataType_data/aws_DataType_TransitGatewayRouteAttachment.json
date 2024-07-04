@@ -1,8 +1,0 @@
-{
-    "action": "TransitGatewayRouteAttachment",
-    "content_parameters": {
-        "resourceId": "",
-        "resourceType": "",
-        "transitGatewayAttachmentId": ""
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "action": "CreateVerifiedAccessTrustProviderDeviceOptions",
-    "content_parameters": {
-        "PublicSigningKeyUrl": "",
-        "TenantId": ""
-    }
-}

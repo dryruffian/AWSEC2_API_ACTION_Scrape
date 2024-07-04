@@ -1,8 +1,0 @@
-{
-    "action": "DestinationOptionsRequest",
-    "content_parameters": {
-        "FileFormat": "",
-        "HiveCompatiblePartitions": "",
-        "PerHourPartition": ""
-    }
-}

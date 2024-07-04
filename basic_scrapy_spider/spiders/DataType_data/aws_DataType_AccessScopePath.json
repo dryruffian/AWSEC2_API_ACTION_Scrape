@@ -1,8 +1,0 @@
-{
-    "action": "AccessScopePath",
-    "content_parameters": {
-        "destination": "PathStatement",
-        "source": "PathStatement",
-        "throughResourceSet": "ThroughResourcesStatement"
-    }
-}

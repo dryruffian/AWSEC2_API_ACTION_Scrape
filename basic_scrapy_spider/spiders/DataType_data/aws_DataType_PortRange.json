@@ -1,7 +1,0 @@
-{
-    "action": "PortRange",
-    "content_parameters": {
-        "From": "",
-        "To": ""
-    }
-}

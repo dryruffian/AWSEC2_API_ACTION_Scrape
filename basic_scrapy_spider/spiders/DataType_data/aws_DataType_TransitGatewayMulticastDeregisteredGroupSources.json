@@ -1,8 +1,0 @@
-{
-    "action": "TransitGatewayMulticastDeregisteredGroupSources",
-    "content_parameters": {
-        "deregisteredNetworkInterfaceIds": "",
-        "groupIpAddress": "",
-        "transitGatewayMulticastDomainId": ""
-    }
-}

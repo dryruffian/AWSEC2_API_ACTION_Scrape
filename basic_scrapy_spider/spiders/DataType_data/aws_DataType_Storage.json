@@ -1,6 +1,0 @@
-{
-    "action": "Storage",
-    "content_parameters": {
-        "S3": "S3Storage"
-    }
-}

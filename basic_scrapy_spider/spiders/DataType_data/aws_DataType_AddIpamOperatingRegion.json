@@ -1,6 +1,0 @@
-{
-    "action": "AddIpamOperatingRegion",
-    "content_parameters": {
-        "RegionName": ""
-    }
-}

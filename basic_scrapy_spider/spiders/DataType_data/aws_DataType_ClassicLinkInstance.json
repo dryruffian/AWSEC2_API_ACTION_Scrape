@@ -1,9 +1,0 @@
-{
-    "action": "ClassicLinkInstance",
-    "content_parameters": {
-        "groupSet": "GroupIdentifier",
-        "instanceId": "",
-        "tagSet": "Tag",
-        "vpcId": ""
-    }
-}

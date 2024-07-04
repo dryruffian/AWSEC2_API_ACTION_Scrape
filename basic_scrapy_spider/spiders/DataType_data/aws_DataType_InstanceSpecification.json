@@ -1,8 +1,0 @@
-{
-    "action": "InstanceSpecification",
-    "content_parameters": {
-        "InstanceId": "",
-        "ExcludeBootVolume": "",
-        "ExcludeDataVolumeIds": ""
-    }
-}

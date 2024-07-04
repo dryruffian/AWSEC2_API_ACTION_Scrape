@@ -1,7 +1,0 @@
-{
-    "action": "DeregisterInstanceTagAttributeRequest",
-    "content_parameters": {
-        "IncludeAllTagsOfInstance": "",
-        "InstanceTagKeys": ""
-    }
-}

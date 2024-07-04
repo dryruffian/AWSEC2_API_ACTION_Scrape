@@ -1,7 +1,0 @@
-{
-    "action": "UnsuccessfulItem",
-    "content_parameters": {
-        "error": "UnsuccessfulItemError",
-        "resourceId": ""
-    }
-}

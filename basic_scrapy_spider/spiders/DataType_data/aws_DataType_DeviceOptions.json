@@ -1,7 +1,0 @@
-{
-    "action": "DeviceOptions",
-    "content_parameters": {
-        "publicSigningKeyUrl": "",
-        "tenantId": ""
-    }
-}

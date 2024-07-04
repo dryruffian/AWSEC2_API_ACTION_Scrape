@@ -1,8 +1,0 @@
-{
-    "action": "VpcCidrBlockAssociation",
-    "content_parameters": {
-        "associationId": "",
-        "cidrBlock": "",
-        "cidrBlockState": "VpcCidrBlockState"
-    }
-}

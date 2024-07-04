@@ -1,6 +1,0 @@
-{
-    "action": "CertificateAuthenticationRequest",
-    "content_parameters": {
-        "ClientRootCertificateChainArn": ""
-    }
-}

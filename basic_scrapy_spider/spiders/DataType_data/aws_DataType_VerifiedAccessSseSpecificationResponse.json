@@ -1,7 +1,0 @@
-{
-    "action": "VerifiedAccessSseSpecificationResponse",
-    "content_parameters": {
-        "customerManagedKeyEnabled": "",
-        "kmsKeyArn": ""
-    }
-}

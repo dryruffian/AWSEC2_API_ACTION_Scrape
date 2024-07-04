@@ -1,7 +1,0 @@
-{
-    "action": "FilterPortRange",
-    "content_parameters": {
-        "fromPort": "",
-        "toPort": ""
-    }
-}

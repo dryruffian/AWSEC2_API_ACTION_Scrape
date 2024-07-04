@@ -1,9 +1,0 @@
-{
-    "action": "InternetGateway",
-    "content_parameters": {
-        "attachmentSet": "InternetGatewayAttachment",
-        "internetGatewayId": "",
-        "ownerId": "",
-        "tagSet": "Tag"
-    }
-}

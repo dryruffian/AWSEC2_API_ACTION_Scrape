@@ -1,8 +1,0 @@
-{
-    "action": "TransitGatewayMulticastDomainOptions",
-    "content_parameters": {
-        "autoAcceptSharedAssociations": "",
-        "igmpv2Support": "",
-        "staticSourcesSupport": ""
-    }
-}

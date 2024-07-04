@@ -1,7 +1,0 @@
-{
-    "action": "ClientVpnAuthorizationRuleStatus",
-    "content_parameters": {
-        "code": "",
-        "message": ""
-    }
-}
